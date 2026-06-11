@@ -386,22 +386,6 @@ with tab1:
         for e in dashboard
     ])
 
-    def color_tier(val):
-        colors_map = {
-            "GREEN": f"background-color: rgba(34,197,94,0.15); color: {COLORS['GREEN']}",
-            "AMBER": f"background-color: rgba(245,158,11,0.15); color: {COLORS['AMBER']}",
-            "RED": f"background-color: rgba(239,68,68,0.15); color: {COLORS['RED']}",
-        }
-        return colors_map.get(val, "")
-
-    styled_df = df_table.style.applymap(
-        color_tier, subset=["Risk Tier"]
-    ).set_properties(**{
-        "background-color": "#1a1d29",
-        "color": "#e2e8f0",
-        "border": "1px solid rgba(99,102,241,0.1)",
-        "font-size": "0.85rem",
-    })
     st.dataframe(df_table, use_container_width=True, hide_index=True)
 
     # ── Concentration alerts ─────────────────────────────────────────
