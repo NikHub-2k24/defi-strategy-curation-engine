@@ -1,0 +1,61 @@
+{
+  "incidents": [
+    {
+      "id": "INC-2024-001",
+      "date": "2024-06-15",
+      "type": "tvl_drop",
+      "severity": "P2",
+      "title": "Curve stETH/ETH Pool TVL Drop — 32% decline in 24h",
+      "description": "Significant TVL outflow detected in Curve stETH/ETH pool following a large whale withdrawal. Pool balance dropped from $1.2B to $816M within 24 hours, triggering concentration monitoring alerts.",
+      "trigger": "TVL drops >30% in 24 hours",
+      "actions_taken": [
+        "Automated alert triggered at 15% threshold (T+2h)",
+        "Curation team notified and began monitoring (T+3h)",
+        "Root cause identified as single whale withdrawal, not systemic (T+4h)",
+        "Reduced allocation from $25M to $18M as precautionary measure (T+6h)",
+        "TVL stabilized at $850M over next 48 hours"
+      ],
+      "resolution": "Whale withdrawal confirmed as portfolio rebalancing by institutional fund. No systemic risk. Allocation restored to $20M after 7-day observation period.",
+      "resolved_date": "2024-06-22",
+      "post_mortem_completed": true
+    },
+    {
+      "id": "INC-2024-002",
+      "date": "2024-09-03",
+      "type": "apy_anomaly",
+      "severity": "P3",
+      "title": "Pendle stETH PT APY Spike — 3.2x expected yield",
+      "description": "Pendle stETH PT APY surged from 8.2% to 26.3% within 6 hours. Investigation revealed temporary supply-demand imbalance in fixed-rate market due to large maturity rollover.",
+      "trigger": "APY anomaly (>3x expected)",
+      "actions_taken": [
+        "Automated APY monitoring alert triggered (T+1h)",
+        "Analyst reviewed Pendle market dynamics (T+2h)",
+        "Confirmed as temporary market effect from maturity rollover (T+4h)",
+        "No allocation change required — underlying mechanics sound"
+      ],
+      "resolution": "APY normalized to 9.1% within 48 hours as new PT tokens were minted. No risk materialized.",
+      "resolved_date": "2024-09-05",
+      "post_mortem_completed": false
+    },
+    {
+      "id": "INC-2025-001",
+      "date": "2025-01-18",
+      "type": "oracle_manipulation",
+      "severity": "P1",
+      "title": "Suspected Oracle Delay — Spark Protocol ETH price feed stale for 45 minutes",
+      "description": "Chainlink price feed for ETH/USD on Spark Protocol showed stale data (45-minute delay) during period of high market volatility. Potential for mispriced liquidations detected.",
+      "trigger": "Oracle manipulation suspected",
+      "actions_taken": [
+        "P1 alert triggered immediately upon detection (T+0)",
+        "Emergency call with curation team lead initiated (T+15m)",
+        "Withdrawal of 50% allocation ($5M) initiated as precaution (T+30m)",
+        "Chainlink team contacted for root cause analysis (T+45m)",
+        "Oracle feed resumed normal operation (T+50m)",
+        "Confirmed as infrastructure issue, not manipulation (T+2h)"
+      ],
+      "resolution": "Chainlink confirmed temporary infrastructure degradation during network congestion. No exploits occurred. Full allocation restored after Chainlink published incident report.",
+      "resolved_date": "2025-01-20",
+      "post_mortem_completed": true
+    }
+  ]
+}
