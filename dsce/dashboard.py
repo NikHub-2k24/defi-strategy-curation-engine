@@ -939,11 +939,13 @@ with tab5:
         
         st.subheader("Equity Curves")
         if equity_img.exists():
-            st.image(str(equity_img), use_column_width=True)
+            with open(equity_img, "rb") as f:
+                st.image(f.read(), use_container_width=True)
             
         st.subheader("Trigger Annotations")
         if trigger_img.exists():
-            st.image(str(trigger_img), use_column_width=True)
+            with open(trigger_img, "rb") as f:
+                st.image(f.read(), use_container_width=True)
             
     else:
         st.info("Backtest report not found. Run the backtest engine to generate historical results.")

@@ -1,13 +1,13 @@
 # DeFi Strategy Backtest Report
 
-**Generated**: 2026-08-06 18:18 UTC
+**Generated**: 2026-08-06 18:58 UTC
 **Backtest Period**: 2025-02-07 to 2026-08-06
 **Trading Days**: 545
 
 ## 1. Methodology
 
 This backtest replays the exact risk-scoring and trigger logic from the 
-[DeFi Strategy Curation Engine (DSCE)](../dsce/) against real historical data 
+DeFi Strategy Curation Engine (DSCE) against real historical data 
 from DeFiLlama and CoinGecko APIs. **No rules were invented for this backtest** — 
 every threshold and formula is sourced from the existing codebase.
 
@@ -181,10 +181,20 @@ Compared to the v1 baseline, precision decreased slightly (51.4% → 46%) but to
 
 ## 6. Honest Conclusion
 
-**Honest finding: the DSCE system underperformed in this backtest.** This is \nactually the more valuable result — it identifies specific calibration problems \nthat can be fixed before deploying real capital. The trigger thresholds \nappear miscalibrated for the blue-chip ETH strategy universe, generating \nexits that cost more in missed yield than they save.\n### Limitations\n\n- **Missing Protocol Data:** Spark and EigenLayer APY data are not available via DeFiLlama's historical API. The backtest proportionally redistributes their initial allocation weight to the remaining protocols.\n- **Slippage & Gas Costs:** The simulation applies a flat $5 gas cost per transaction, which ignores market congestion. Slippage is modeled in tiers (0.1% to 1%) based on TVL, which is an approximation of actual liquidity curves.\n- **Withdrawal Delays:** The 7-day withdrawal delay for EigenLayer is simulated by locking the capital to earn 0% yield for 7 days, which is a simplified model of the actual unstaking process.\n- **Impermanent Loss (IL):** The IL formula for Curve LP positions uses a fallback estimation based on available data when exact pool dynamics are unavailable.\n- **Extreme Sharpe Ratios:** The highly negative Sharpe ratio for the DSCE strategy is a mathematical artifact of tracking error. DSCE's returns closely track the ETH staking benchmark (very low volatility and tracking error). Therefore, a small, steady underperformance (primarily from slippage drag) produces a large negative Sharpe even though the strategy isn't wildly volatile. The sign (negative) and consistency of underperformance matter more here than the raw magnitude.
+**Honest finding: the DSCE system underperformed in this backtest.** This is 
+actually the more valuable result — it identifies specific calibration problems 
+that can be fixed before deploying real capital. The trigger thresholds 
+appear miscalibrated for the blue-chip ETH strategy universe, generating 
+exits that cost more in missed yield than they save.
+### Limitations
+
+- **Missing Protocol Data:** Spark and EigenLayer APY data are not available via DeFiLlama's historical API. The backtest proportionally redistributes their initial allocation weight to the remaining protocols.
+- **Slippage & Gas Costs:** The simulation applies a flat $5 gas cost per transaction, which ignores market congestion. Slippage is modeled in tiers (0.1% to 1%) based on TVL, which is an approximation of actual liquidity curves.
+- **Withdrawal Delays:** The 7-day withdrawal delay for EigenLayer is simulated by locking the capital to earn 0% yield for 7 days, which is a simplified model of the actual unstaking process.
+- **Impermanent Loss (IL):** The IL formula for Curve LP positions uses a fallback estimation based on available data when exact pool dynamics are unavailable.
+- **Extreme Sharpe Ratios:** The highly negative Sharpe ratio for the DSCE strategy is a mathematical artifact of tracking error. DSCE's returns closely track the ETH staking benchmark (very low volatility and tracking error). Therefore, a small, steady underperformance (primarily from slippage drag) produces a large negative Sharpe even though the strategy isn't wildly volatile. The sign (negative) and consistency of underperformance matter more here than the raw magnitude.
 
 ---
 
-*This report was generated programmatically. All data sourced from DeFiLlama 
-and CoinGecko public APIs. The backtest encodes the exact rules from the 
-[DSCE codebase](../dsce/) with no modifications.*
+*This report was generated programmatically. All data sourced from DeFiLlama and CoinGecko 
+public APIs. The backtest encodes the exact rules from the DSCE codebase with no modifications.*

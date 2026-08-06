@@ -59,7 +59,7 @@ def generate_report(
     lines.append("## 1. Methodology")
     lines.append("")
     lines.append("This backtest replays the exact risk-scoring and trigger logic from the ")
-    lines.append("[DeFi Strategy Curation Engine (DSCE)](../dsce/) against real historical data ")
+    lines.append("DeFi Strategy Curation Engine (DSCE) against real historical data ")
     lines.append("from DeFiLlama and CoinGecko APIs. **No rules were invented for this backtest** — ")
     lines.append("every threshold and formula is sourced from the existing codebase.")
     lines.append("")
@@ -161,9 +161,9 @@ def generate_report(
     lines.append("")
     lines.append("---")
     lines.append("")
-    lines.append("*This report was generated programmatically. All data sourced from DeFiLlama ")
-    lines.append("and CoinGecko public APIs. The backtest encodes the exact rules from the ")
-    lines.append("[DSCE codebase](../dsce/) with no modifications.*")
+    lines.append("*This report was generated programmatically. All data sourced from DeFiLlama and CoinGecko ")
+    lines.append("public APIs. The backtest encodes the exact rules from the DSCE codebase with no modifications.*")
+    lines.append("")
 
     report_text = "\n".join(lines)
     save_path.write_text(report_text, encoding="utf-8")
@@ -460,4 +460,4 @@ def _generate_conclusion(metrics: BacktestMetrics) -> str:
     lines.append("- **Impermanent Loss (IL):** The IL formula for Curve LP positions uses a fallback estimation based on available data when exact pool dynamics are unavailable.")
     lines.append("- **Extreme Sharpe Ratios:** The highly negative Sharpe ratio for the DSCE strategy is a mathematical artifact of tracking error. DSCE's returns closely track the ETH staking benchmark (very low volatility and tracking error). Therefore, a small, steady underperformance (primarily from slippage drag) produces a large negative Sharpe even though the strategy isn't wildly volatile. The sign (negative) and consistency of underperformance matter more here than the raw magnitude.")
     
-    return "\\n".join(lines)
+    return "\n".join(lines)
