@@ -42,7 +42,7 @@ Built as a portfolio project demonstrating the end-to-end curation workflow for 
 │  data/                                                          │
 │  ├── raw/              (API response cache, auto-managed)       │
 │  ├── portfolio_config.json  (7 strategies, limits, benchmark)   │
-│  └── mock_incidents.json    (3 historical incidents)            │
+
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -179,7 +179,7 @@ dsce/
 ├── data/
 │   ├── raw/                       # Auto-managed API cache (JSON)
 │   ├── portfolio_config.json      # 7 strategies + concentration limits
-│   └── mock_incidents.json        # 3 historical incident records
+
 ├── modules/
 │   ├── __init__.py
 │   ├── data_ingestion.py          # DefiLlama + CoinGecko clients

@@ -1,0 +1,9002 @@
+[
+  {
+    "timestamp": "2024-02-16T23:01:14.086Z",
+    "tvlUsd": 808679,
+    "apy": 0.36108,
+    "apyBase": 0.36108,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-17T23:02:50.575Z",
+    "tvlUsd": 807696,
+    "apy": 0.36108,
+    "apyBase": 0.36108,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-18T23:03:21.139Z",
+    "tvlUsd": 818746,
+    "apy": 0.36108,
+    "apyBase": 0.36108,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-19T23:02:45.493Z",
+    "tvlUsd": 868267,
+    "apy": 0.33671,
+    "apyBase": 0.33671,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-20T23:02:03.864Z",
+    "tvlUsd": 994915,
+    "apy": 2.85192,
+    "apyBase": 2.85192,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-21T23:02:41.373Z",
+    "tvlUsd": 969555,
+    "apy": 2.85192,
+    "apyBase": 2.85192,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-22T23:02:01.150Z",
+    "tvlUsd": 988605,
+    "apy": 2.85192,
+    "apyBase": 2.85192,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-23T23:02:04.082Z",
+    "tvlUsd": 976862,
+    "apy": 2.85192,
+    "apyBase": 2.85192,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-24T23:02:40.940Z",
+    "tvlUsd": 992996,
+    "apy": 2.85192,
+    "apyBase": 2.85192,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-25T23:02:08.514Z",
+    "tvlUsd": 1047449,
+    "apy": 5.69194,
+    "apyBase": 5.69194,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-26T23:02:41.119Z",
+    "tvlUsd": 1076742,
+    "apy": 5.69194,
+    "apyBase": 5.69194,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-27T23:01:53.550Z",
+    "tvlUsd": 1545887,
+    "apy": 1.76765,
+    "apyBase": 1.76765,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-28T23:02:07.188Z",
+    "tvlUsd": 1637751,
+    "apy": 8.13464,
+    "apyBase": 8.13464,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-02-29T23:01:39.587Z",
+    "tvlUsd": 1660676,
+    "apy": 8.13464,
+    "apyBase": 8.13464,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-01T23:02:01.332Z",
+    "tvlUsd": 1720182,
+    "apy": 8.13464,
+    "apyBase": 8.13464,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-02T23:03:23.982Z",
+    "tvlUsd": 1722299,
+    "apy": 8.13464,
+    "apyBase": 8.13464,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-03T23:01:59.740Z",
+    "tvlUsd": 1738555,
+    "apy": 8.13464,
+    "apyBase": 8.13464,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-04T16:03:23.163Z",
+    "tvlUsd": 1759973,
+    "apy": 8.13464,
+    "apyBase": 8.13464,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-05T23:02:40.076Z",
+    "tvlUsd": 1707955,
+    "apy": 8.13464,
+    "apyBase": 8.13464,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-06T23:04:03.458Z",
+    "tvlUsd": 1944270,
+    "apy": 8.13464,
+    "apyBase": 8.13464,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-07T23:02:44.328Z",
+    "tvlUsd": 1941582,
+    "apy": 8.13464,
+    "apyBase": 8.13464,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-08T23:01:51.249Z",
+    "tvlUsd": 1974222,
+    "apy": 8.13464,
+    "apyBase": 8.13464,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-09T23:01:52.271Z",
+    "tvlUsd": 1727602,
+    "apy": 5.08408,
+    "apyBase": 5.08408,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-10T23:02:02.067Z",
+    "tvlUsd": 1513068,
+    "apy": 22.4724,
+    "apyBase": 22.4724,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-11T23:04:24.888Z",
+    "tvlUsd": 1566689,
+    "apy": 39.04851,
+    "apyBase": 39.04851,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-12T23:02:43.680Z",
+    "tvlUsd": 1524813,
+    "apy": 49.19925,
+    "apyBase": 49.19925,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-13T23:02:46.135Z",
+    "tvlUsd": 1544741,
+    "apy": 19.11642,
+    "apyBase": 19.11642,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-14T23:01:29.509Z",
+    "tvlUsd": 1450146,
+    "apy": 56.83775,
+    "apyBase": 56.83775,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-15T23:05:40.131Z",
+    "tvlUsd": 1373753,
+    "apy": 56.83775,
+    "apyBase": 56.83775,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-16T23:01:24.562Z",
+    "tvlUsd": 1208144,
+    "apy": 27.36434,
+    "apyBase": 27.36434,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-17T23:01:23.265Z",
+    "tvlUsd": 1193253,
+    "apy": 78.02141,
+    "apyBase": 78.02141,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-18T23:01:18.663Z",
+    "tvlUsd": 1056201,
+    "apy": 9.47315,
+    "apyBase": 9.47315,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-19T19:01:33.280Z",
+    "tvlUsd": 927696,
+    "apy": 6.07501,
+    "apyBase": 6.07501,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-20T23:01:18.627Z",
+    "tvlUsd": 724527,
+    "apy": 80.39134,
+    "apyBase": 80.39134,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-21T23:01:40.166Z",
+    "tvlUsd": 569737,
+    "apy": 7.1406,
+    "apyBase": 7.1406,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-22T23:01:20.776Z",
+    "tvlUsd": 501332,
+    "apy": 9.04574,
+    "apyBase": 9.04574,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-23T23:01:27.554Z",
+    "tvlUsd": 509538,
+    "apy": 9.04574,
+    "apyBase": 9.04574,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-24T23:01:24.403Z",
+    "tvlUsd": 513302,
+    "apy": 9.04574,
+    "apyBase": 9.04574,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-25T23:01:25.371Z",
+    "tvlUsd": 537074,
+    "apy": 9.04574,
+    "apyBase": 9.04574,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-26T23:01:23.718Z",
+    "tvlUsd": 534394,
+    "apy": 9.04574,
+    "apyBase": 9.04574,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-27T23:01:20.503Z",
+    "tvlUsd": 524407,
+    "apy": 9.04574,
+    "apyBase": 9.04574,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-28T23:01:21.518Z",
+    "tvlUsd": 532008,
+    "apy": 9.04574,
+    "apyBase": 9.04574,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-29T23:01:20.724Z",
+    "tvlUsd": 553839,
+    "apy": 8.71627,
+    "apyBase": 8.71627,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-30T23:01:42.952Z",
+    "tvlUsd": 552815,
+    "apy": 8.71627,
+    "apyBase": 8.71627,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-03-31T23:01:28.783Z",
+    "tvlUsd": 568636,
+    "apy": 8.71627,
+    "apyBase": 8.71627,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-01T23:17:30.416Z",
+    "tvlUsd": 548999,
+    "apy": 8.71627,
+    "apyBase": 8.71627,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-02T23:01:24.348Z",
+    "tvlUsd": 519060,
+    "apy": 8.71627,
+    "apyBase": 8.71627,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-03T23:01:22.524Z",
+    "tvlUsd": 519860,
+    "apy": 8.04553,
+    "apyBase": 8.04553,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-04T23:01:37.539Z",
+    "tvlUsd": 521091,
+    "apy": 8.04553,
+    "apyBase": 8.04553,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-05T23:01:30.663Z",
+    "tvlUsd": 523992,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-06T23:01:22.214Z",
+    "tvlUsd": 528320,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-07T23:01:19.398Z",
+    "tvlUsd": 538210,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-08T23:01:46.779Z",
+    "tvlUsd": 577138,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-09T23:01:18.533Z",
+    "tvlUsd": 551026,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-10T23:01:36.570Z",
+    "tvlUsd": 556632,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-11T23:01:18.716Z",
+    "tvlUsd": 552149,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-12T23:01:42.053Z",
+    "tvlUsd": 510111,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-13T23:17:22.518Z",
+    "tvlUsd": 486967,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-14T23:01:27.851Z",
+    "tvlUsd": 490256,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-15T23:01:17.213Z",
+    "tvlUsd": 494851,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-16T23:01:26.046Z",
+    "tvlUsd": 496220,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-17T23:01:28.351Z",
+    "tvlUsd": 479093,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-18T23:01:20.693Z",
+    "tvlUsd": 489872,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-19T23:01:32.999Z",
+    "tvlUsd": 491705,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-20T23:01:21.089Z",
+    "tvlUsd": 501566,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-21T23:01:27.197Z",
+    "tvlUsd": 501112,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-22T23:01:29.099Z",
+    "tvlUsd": 506288,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-23T23:01:41.982Z",
+    "tvlUsd": 508359,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-24T23:01:31.822Z",
+    "tvlUsd": 500642,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-25T23:01:51.465Z",
+    "tvlUsd": 504341,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-26T23:01:39.546Z",
+    "tvlUsd": 498484,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-27T23:06:59.836Z",
+    "tvlUsd": 514568,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-28T23:01:54.816Z",
+    "tvlUsd": 522006,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-29T23:01:26.338Z",
+    "tvlUsd": 504893,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-04-30T23:01:21.253Z",
+    "tvlUsd": 476698,
+    "apy": 7.87778,
+    "apyBase": 7.87778,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-01T23:01:46.494Z",
+    "tvlUsd": 1464144,
+    "apy": 0.37342,
+    "apyBase": 0.37342,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-02T23:01:31.711Z",
+    "tvlUsd": 1476188,
+    "apy": 0.37342,
+    "apyBase": 0.37342,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-03T23:01:25.809Z",
+    "tvlUsd": 1490884,
+    "apy": 0.37342,
+    "apyBase": 0.37342,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-04T23:01:28.158Z",
+    "tvlUsd": 2700243,
+    "apy": 0.69155,
+    "apyBase": 0.69155,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-05T23:01:38.912Z",
+    "tvlUsd": 2708755,
+    "apy": 0.69155,
+    "apyBase": 0.69155,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-06T23:01:29.862Z",
+    "tvlUsd": 2677286,
+    "apy": 0.69155,
+    "apyBase": 0.69155,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-07T23:01:34.583Z",
+    "tvlUsd": 2655962,
+    "apy": 0.53787,
+    "apyBase": 0.53787,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-08T23:01:23.003Z",
+    "tvlUsd": 2615280,
+    "apy": 0.50904,
+    "apyBase": 0.50904,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-09T23:01:49.799Z",
+    "tvlUsd": 2643833,
+    "apy": 0.45926,
+    "apyBase": 0.45926,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-10T23:01:18.090Z",
+    "tvlUsd": 2572801,
+    "apy": 0.45926,
+    "apyBase": 0.45926,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-11T23:01:23.979Z",
+    "tvlUsd": 2611805,
+    "apy": 0.40865,
+    "apyBase": 0.40865,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-12T23:01:38.732Z",
+    "tvlUsd": 2752684,
+    "apy": 0.76846,
+    "apyBase": 0.76846,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-13T23:01:23.399Z",
+    "tvlUsd": 2765312,
+    "apy": 0.69427,
+    "apyBase": 0.69427,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-14T23:01:49.637Z",
+    "tvlUsd": 2780459,
+    "apy": 0.71809,
+    "apyBase": 0.71809,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-15T23:01:42.332Z",
+    "tvlUsd": 2989151,
+    "apy": 1.05312,
+    "apyBase": 1.05312,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-16T23:01:53.467Z",
+    "tvlUsd": 3526181,
+    "apy": 1.60862,
+    "apyBase": 1.60862,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-17T23:01:25.111Z",
+    "tvlUsd": 3685759,
+    "apy": 1.61742,
+    "apyBase": 1.61742,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-18T23:01:33.540Z",
+    "tvlUsd": 3659996,
+    "apy": 1.62925,
+    "apyBase": 1.62925,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-19T23:02:07.989Z",
+    "tvlUsd": 3605482,
+    "apy": 1.65872,
+    "apyBase": 1.65872,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-20T23:01:23.957Z",
+    "tvlUsd": 4146525,
+    "apy": 1.29496,
+    "apyBase": 1.29496,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-21T13:01:41.246Z",
+    "tvlUsd": 4133771,
+    "apy": 1.2741,
+    "apyBase": 1.2741,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-22T23:01:41.579Z",
+    "tvlUsd": 3959984,
+    "apy": 1.22129,
+    "apyBase": 1.22129,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-23T23:01:28.460Z",
+    "tvlUsd": 3812910,
+    "apy": 1.61307,
+    "apyBase": 1.61307,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-24T23:01:54.579Z",
+    "tvlUsd": 3725822,
+    "apy": 1.82786,
+    "apyBase": 1.82786,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-25T23:01:46.174Z",
+    "tvlUsd": 3773178,
+    "apy": 1.6682,
+    "apyBase": 1.6682,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-26T23:01:36.148Z",
+    "tvlUsd": 4285860,
+    "apy": 1.17036,
+    "apyBase": 1.17036,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-27T23:01:36.681Z",
+    "tvlUsd": 5222545,
+    "apy": 7.53162,
+    "apyBase": 7.53162,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-28T23:01:39.225Z",
+    "tvlUsd": 5228964,
+    "apy": 7.22411,
+    "apyBase": 7.22411,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-29T23:01:41.447Z",
+    "tvlUsd": 5107773,
+    "apy": 7.6809,
+    "apyBase": 7.6809,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-30T23:01:29.826Z",
+    "tvlUsd": 5354853,
+    "apy": 7.27849,
+    "apyBase": 7.27849,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-05-31T23:01:51.988Z",
+    "tvlUsd": 5425814,
+    "apy": 7.63139,
+    "apyBase": 7.63139,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-01T23:01:38.388Z",
+    "tvlUsd": 5314397,
+    "apy": 11.78466,
+    "apyBase": 11.78466,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-02T23:01:58.285Z",
+    "tvlUsd": 5290705,
+    "apy": 12.68762,
+    "apyBase": 12.68762,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-03T23:01:34.988Z",
+    "tvlUsd": 5226025,
+    "apy": 4.92859,
+    "apyBase": 4.92859,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-04T23:01:49.621Z",
+    "tvlUsd": 5337027,
+    "apy": 3.13542,
+    "apyBase": 3.13542,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-05T23:01:47.048Z",
+    "tvlUsd": 5234456,
+    "apy": 13.21656,
+    "apyBase": 13.21656,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-06T23:01:45.068Z",
+    "tvlUsd": 5197285,
+    "apy": 11.32455,
+    "apyBase": 11.32455,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-07T23:02:04.240Z",
+    "tvlUsd": 5124665,
+    "apy": 6.54914,
+    "apyBase": 6.54914,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-08T23:01:43.954Z",
+    "tvlUsd": 5113648,
+    "apy": 6.83589,
+    "apyBase": 6.83589,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-09T23:01:30.545Z",
+    "tvlUsd": 5149496,
+    "apy": 8.25352,
+    "apyBase": 8.25352,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-10T21:02:08.432Z",
+    "tvlUsd": 5208780,
+    "apy": 4.11065,
+    "apyBase": 4.11065,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-11T23:01:38.962Z",
+    "tvlUsd": 13648,
+    "apy": 18.80029,
+    "apyBase": 18.80029,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-12T23:01:44.408Z",
+    "tvlUsd": 5011553,
+    "apy": 5.94946,
+    "apyBase": 5.94946,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-13T23:01:36.111Z",
+    "tvlUsd": 4787790,
+    "apy": 12.74948,
+    "apyBase": 12.74948,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-14T23:01:34.283Z",
+    "tvlUsd": 4860387,
+    "apy": 11.36592,
+    "apyBase": 11.36592,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-15T23:01:32.507Z",
+    "tvlUsd": 4946431,
+    "apy": 12.22593,
+    "apyBase": 12.22593,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-16T23:01:35.112Z",
+    "tvlUsd": 5089001,
+    "apy": 5.22869,
+    "apyBase": 5.22869,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-17T23:01:32.877Z",
+    "tvlUsd": 4891996,
+    "apy": 8.15771,
+    "apyBase": 8.15771,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-18T23:01:09.370Z",
+    "tvlUsd": 4817752,
+    "apy": 8.95842,
+    "apyBase": 8.95842,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-19T23:01:24.759Z",
+    "tvlUsd": 4959123,
+    "apy": 10.31178,
+    "apyBase": 10.31178,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-20T23:02:14.866Z",
+    "tvlUsd": 4903842,
+    "apy": 9.3199,
+    "apyBase": 9.3199,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-21T23:01:27.320Z",
+    "tvlUsd": 6301586,
+    "apy": 2.50577,
+    "apyBase": 2.50577,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-22T23:01:43.431Z",
+    "tvlUsd": 4876946,
+    "apy": 9.43641,
+    "apyBase": 9.43641,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-23T23:01:44.560Z",
+    "tvlUsd": 4788621,
+    "apy": 9.64303,
+    "apyBase": 9.64303,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-24T23:01:42.811Z",
+    "tvlUsd": 4668351,
+    "apy": 8.99779,
+    "apyBase": 8.99779,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-25T23:02:10.012Z",
+    "tvlUsd": 4860209,
+    "apy": 5.90258,
+    "apyBase": 5.90258,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-26T23:01:31.516Z",
+    "tvlUsd": 4838428,
+    "apy": 5.88953,
+    "apyBase": 5.88953,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-27T23:01:30.690Z",
+    "tvlUsd": 4862516,
+    "apy": 6.12027,
+    "apyBase": 6.12027,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-28T23:01:20.444Z",
+    "tvlUsd": 4778705,
+    "apy": 6.05881,
+    "apyBase": 6.05881,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-29T23:01:45.531Z",
+    "tvlUsd": 4756826,
+    "apy": 7.18889,
+    "apyBase": 7.18889,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-06-30T23:01:23.917Z",
+    "tvlUsd": 4804867,
+    "apy": 6.5533,
+    "apyBase": 6.5533,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-01T23:01:27.631Z",
+    "tvlUsd": 4924643,
+    "apy": 5.98655,
+    "apyBase": 5.98655,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-02T23:01:26.994Z",
+    "tvlUsd": 6005169,
+    "apy": 2.81598,
+    "apyBase": 2.81598,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-03T23:01:33.359Z",
+    "tvlUsd": 4616423,
+    "apy": 6.01518,
+    "apyBase": 6.01518,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-04T23:01:34.262Z",
+    "tvlUsd": 5736092,
+    "apy": 6.03083,
+    "apyBase": 6.03083,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-05T22:03:09.411Z",
+    "tvlUsd": 5522185,
+    "apy": 5.06447,
+    "apyBase": 5.06447,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-06T23:01:46.958Z",
+    "tvlUsd": 5423661,
+    "apy": 6.3215,
+    "apyBase": 6.3215,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-07T23:01:24.151Z",
+    "tvlUsd": 5268154,
+    "apy": 5.87155,
+    "apyBase": 5.87155,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-08T23:01:34.338Z",
+    "tvlUsd": 5381208,
+    "apy": 5.86652,
+    "apyBase": 5.86652,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-09T23:01:30.407Z",
+    "tvlUsd": 5447999,
+    "apy": 6.20562,
+    "apyBase": 6.20562,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-10T23:01:34.705Z",
+    "tvlUsd": 5402344,
+    "apy": 8.70453,
+    "apyBase": 8.70453,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-11T23:02:42.426Z",
+    "tvlUsd": 5485845,
+    "apy": 6.51555,
+    "apyBase": 6.51555,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-12T23:02:39.394Z",
+    "tvlUsd": 5838341,
+    "apy": 5.40969,
+    "apyBase": 5.40969,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-13T23:02:42.910Z",
+    "tvlUsd": 5992681,
+    "apy": 5.10662,
+    "apyBase": 5.10662,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-14T23:02:39.775Z",
+    "tvlUsd": 5996827,
+    "apy": 5.43677,
+    "apyBase": 5.43677,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-15T22:02:00.481Z",
+    "tvlUsd": 5993925,
+    "apy": 10.42529,
+    "apyBase": 10.42529,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-16T23:02:38.384Z",
+    "tvlUsd": 6041636,
+    "apy": 6.5523,
+    "apyBase": 6.5523,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-17T23:03:47.401Z",
+    "tvlUsd": 5961898,
+    "apy": 6.52552,
+    "apyBase": 6.52552,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-18T23:05:15.508Z",
+    "tvlUsd": 6117191,
+    "apy": 6.09477,
+    "apyBase": 6.09477,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-19T22:02:03.258Z",
+    "tvlUsd": 6244874,
+    "apy": 6.07793,
+    "apyBase": 6.07793,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-20T23:02:11.227Z",
+    "tvlUsd": 6253190,
+    "apy": 6.10779,
+    "apyBase": 6.10779,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-21T23:02:03.761Z",
+    "tvlUsd": 6245627,
+    "apy": 6.09349,
+    "apyBase": 6.09349,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-22T23:02:02.184Z",
+    "tvlUsd": 5970183,
+    "apy": 12.25648,
+    "apyBase": 12.25648,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-23T23:02:04.901Z",
+    "tvlUsd": 5985488,
+    "apy": 12.51831,
+    "apyBase": 12.51831,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-24T23:01:59.969Z",
+    "tvlUsd": 4162950,
+    "apy": 19.76101,
+    "apyBase": 19.76101,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-25T23:03:23.483Z",
+    "tvlUsd": 4215441,
+    "apy": 6.78444,
+    "apyBase": 6.78444,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-26T23:01:59.750Z",
+    "tvlUsd": 4289531,
+    "apy": 6.99393,
+    "apyBase": 6.99393,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-27T23:02:10.314Z",
+    "tvlUsd": 4307289,
+    "apy": 7.00952,
+    "apyBase": 7.00952,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-28T23:02:38.519Z",
+    "tvlUsd": 4267958,
+    "apy": 6.99044,
+    "apyBase": 6.99044,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-29T23:01:36.857Z",
+    "tvlUsd": 4405551,
+    "apy": 6.66505,
+    "apyBase": 6.66505,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-30T23:02:46.728Z",
+    "tvlUsd": 4324050,
+    "apy": 6.79623,
+    "apyBase": 6.79623,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-07-31T23:01:20.764Z",
+    "tvlUsd": 4259865,
+    "apy": 6.8092,
+    "apyBase": 6.8092,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-01T23:01:28.729Z",
+    "tvlUsd": 4156853,
+    "apy": 6.57253,
+    "apyBase": 6.57253,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-02T23:01:18.764Z",
+    "tvlUsd": 4053631,
+    "apy": 5.96206,
+    "apyBase": 5.96206,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-03T23:01:35.688Z",
+    "tvlUsd": 4038179,
+    "apy": 5.59875,
+    "apyBase": 5.59875,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-04T23:02:28.553Z",
+    "tvlUsd": 3975038,
+    "apy": 5.21333,
+    "apyBase": 5.21333,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-05T23:01:22.740Z",
+    "tvlUsd": 2684632,
+    "apy": 4.38523,
+    "apyBase": 4.38523,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-06T23:01:47.930Z",
+    "tvlUsd": 2830394,
+    "apy": 4.63291,
+    "apyBase": 4.63291,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-07T23:01:36.250Z",
+    "tvlUsd": 2872901,
+    "apy": 4.30193,
+    "apyBase": 4.30193,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-08T23:01:33.751Z",
+    "tvlUsd": 3010883,
+    "apy": 4.18743,
+    "apyBase": 4.18743,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-09T23:01:45.223Z",
+    "tvlUsd": 2903262,
+    "apy": 5.02672,
+    "apyBase": 5.02672,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-10T23:02:41.522Z",
+    "tvlUsd": 2625077,
+    "apy": 5.25172,
+    "apyBase": 5.25172,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-11T23:01:47.256Z",
+    "tvlUsd": 3304281,
+    "apy": 3.26666,
+    "apyBase": 3.26666,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-12T23:01:26.654Z",
+    "tvlUsd": 5966923,
+    "apy": 0.94607,
+    "apyBase": 0.94607,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-13T23:02:42.778Z",
+    "tvlUsd": 5415391,
+    "apy": 1.04369,
+    "apyBase": 1.04369,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-14T22:01:37.519Z",
+    "tvlUsd": 5300603,
+    "apy": 2.04984,
+    "apyBase": 2.04984,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-15T23:01:22.741Z",
+    "tvlUsd": 5161302,
+    "apy": 1.99495,
+    "apyBase": 1.99495,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-16T23:02:33.837Z",
+    "tvlUsd": 5187205,
+    "apy": 2.00738,
+    "apyBase": 2.00738,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-17T23:01:25.525Z",
+    "tvlUsd": 5187205,
+    "apy": 1.96066,
+    "apyBase": 1.96066,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-18T23:01:31.129Z",
+    "tvlUsd": 4245941,
+    "apy": 3.08625,
+    "apyBase": 3.08625,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-19T23:01:26.268Z",
+    "tvlUsd": 5331862,
+    "apy": 1.60871,
+    "apyBase": 1.60871,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-20T23:01:14.012Z",
+    "tvlUsd": 5230206,
+    "apy": 1.6065,
+    "apyBase": 1.6065,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-21T22:01:21.001Z",
+    "tvlUsd": 5402556,
+    "apy": 1.63973,
+    "apyBase": 1.63973,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-22T23:01:18.066Z",
+    "tvlUsd": 5444264,
+    "apy": 1.6675,
+    "apyBase": 1.6675,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-23T23:01:22.741Z",
+    "tvlUsd": 5700688,
+    "apy": 1.61348,
+    "apyBase": 1.61348,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-24T23:01:27.382Z",
+    "tvlUsd": 5631233,
+    "apy": 1.57708,
+    "apyBase": 1.57708,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-25T23:01:24.950Z",
+    "tvlUsd": 5716922,
+    "apy": 1.52709,
+    "apyBase": 1.52709,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-26T23:01:26.906Z",
+    "tvlUsd": 5547271,
+    "apy": 1.49113,
+    "apyBase": 1.49113,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-27T23:01:31.034Z",
+    "tvlUsd": 5947677,
+    "apy": 1.95507,
+    "apyBase": 1.95507,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-28T23:01:28.976Z",
+    "tvlUsd": 6453676,
+    "apy": 1.77398,
+    "apyBase": 1.77398,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-29T23:01:31.078Z",
+    "tvlUsd": 6150628,
+    "apy": 1.7396,
+    "apyBase": 1.7396,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-30T23:01:26.510Z",
+    "tvlUsd": 6456004,
+    "apy": 1.71713,
+    "apyBase": 1.71713,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-08-31T23:01:57.191Z",
+    "tvlUsd": 6146908,
+    "apy": 1.63409,
+    "apyBase": 1.63409,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-01T23:01:32.787Z",
+    "tvlUsd": 6475654,
+    "apy": 1.60073,
+    "apyBase": 1.60073,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-02T23:01:36.349Z",
+    "tvlUsd": 7597007,
+    "apy": 3.66869,
+    "apyBase": 3.66869,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-03T23:01:19.560Z",
+    "tvlUsd": 7356643,
+    "apy": 3.76685,
+    "apyBase": 3.76685,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-04T23:01:33.086Z",
+    "tvlUsd": 7520945,
+    "apy": 3.74038,
+    "apyBase": 3.74038,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-05T23:01:21.567Z",
+    "tvlUsd": 7441427,
+    "apy": 2.46861,
+    "apyBase": 2.46861,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-06T23:01:19.305Z",
+    "tvlUsd": 7595622,
+    "apy": 2.24543,
+    "apyBase": 2.24543,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-07T17:02:17.402Z",
+    "tvlUsd": 6642850,
+    "apy": 1.58501,
+    "apyBase": 1.58501,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-10T23:01:30.407Z",
+    "tvlUsd": 6762369,
+    "apy": 1.46081,
+    "apyBase": 1.46081,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-11T23:01:17.493Z",
+    "tvlUsd": 6749620,
+    "apy": 1.41318,
+    "apyBase": 1.41318,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-12T23:01:34.250Z",
+    "tvlUsd": 6397704,
+    "apy": 1.27238,
+    "apyBase": 1.27238,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-13T23:01:26.617Z",
+    "tvlUsd": 6476940,
+    "apy": 0.67945,
+    "apyBase": 0.67945,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-14T23:01:28.259Z",
+    "tvlUsd": 6627135,
+    "apy": 0.64181,
+    "apyBase": 0.64181,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-15T23:01:18.419Z",
+    "tvlUsd": 6179991,
+    "apy": 0.84208,
+    "apyBase": 0.84208,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-16T23:01:25.684Z",
+    "tvlUsd": 6176231,
+    "apy": 0.81711,
+    "apyBase": 0.81711,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-17T23:01:14.101Z",
+    "tvlUsd": 6174160,
+    "apy": 0.7814,
+    "apyBase": 0.7814,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-18T23:01:51.591Z",
+    "tvlUsd": 6179042,
+    "apy": 0.76339,
+    "apyBase": 0.76339,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-19T23:01:19.207Z",
+    "tvlUsd": 6222916,
+    "apy": 0.75175,
+    "apyBase": 0.75175,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-20T23:01:44.263Z",
+    "tvlUsd": 6241065,
+    "apy": 0.75745,
+    "apyBase": 0.75745,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-21T23:01:18.843Z",
+    "tvlUsd": 7383042,
+    "apy": 1.14457,
+    "apyBase": 1.14457,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-22T23:01:39.691Z",
+    "tvlUsd": 6807426,
+    "apy": 1.14224,
+    "apyBase": 1.14224,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-23T23:01:39.677Z",
+    "tvlUsd": 6983736,
+    "apy": 1.20204,
+    "apyBase": 1.20204,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-24T23:01:28.001Z",
+    "tvlUsd": 7205337,
+    "apy": 1.27384,
+    "apyBase": 1.27384,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-25T23:01:33.256Z",
+    "tvlUsd": 7347078,
+    "apy": 1.27761,
+    "apyBase": 1.27761,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-26T23:01:29.027Z",
+    "tvlUsd": 8133694,
+    "apy": 1.95986,
+    "apyBase": 1.95986,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-27T23:01:18.787Z",
+    "tvlUsd": 7260481,
+    "apy": 2.03006,
+    "apyBase": 2.03006,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-28T23:01:11.229Z",
+    "tvlUsd": 8219923,
+    "apy": 3.46423,
+    "apyBase": 3.46423,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-29T23:01:40.486Z",
+    "tvlUsd": 7245854,
+    "apy": 3.70225,
+    "apyBase": 3.70225,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-09-30T23:01:23.105Z",
+    "tvlUsd": 7245942,
+    "apy": 3.96728,
+    "apyBase": 3.96728,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-01T23:01:31.215Z",
+    "tvlUsd": 7248446,
+    "apy": 4.02381,
+    "apyBase": 4.02381,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-02T22:01:25.929Z",
+    "tvlUsd": 7248038,
+    "apy": 4.13701,
+    "apyBase": 4.13701,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-03T23:01:34.542Z",
+    "tvlUsd": 7241597,
+    "apy": 3.50779,
+    "apyBase": 3.50779,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-04T23:01:37.769Z",
+    "tvlUsd": 7227705,
+    "apy": 3.52013,
+    "apyBase": 3.52013,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-05T23:01:29.630Z",
+    "tvlUsd": 7164685,
+    "apy": 4.73018,
+    "apyBase": 4.73018,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-06T23:01:23.199Z",
+    "tvlUsd": 7450022,
+    "apy": 4.802,
+    "apyBase": 4.802,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-07T23:01:55.977Z",
+    "tvlUsd": 7541526,
+    "apy": 4.97063,
+    "apyBase": 4.97063,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-08T23:01:41.824Z",
+    "tvlUsd": 7585364,
+    "apy": 4.73725,
+    "apyBase": 4.73725,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-09T23:02:01.783Z",
+    "tvlUsd": 7346816,
+    "apy": 4.90318,
+    "apyBase": 4.90318,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-10T23:01:31.785Z",
+    "tvlUsd": 7370929,
+    "apy": 5.16733,
+    "apyBase": 5.16733,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-11T23:01:40.108Z",
+    "tvlUsd": 7882568,
+    "apy": 2.44566,
+    "apyBase": 2.44566,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-12T23:01:20.865Z",
+    "tvlUsd": 8027243,
+    "apy": 2.77271,
+    "apyBase": 2.77271,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-13T23:02:33.593Z",
+    "tvlUsd": 7987522,
+    "apy": 2.77498,
+    "apyBase": 2.77498,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-14T23:02:01.245Z",
+    "tvlUsd": 8397525,
+    "apy": 4.43623,
+    "apyBase": 4.43623,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-15T23:01:29.928Z",
+    "tvlUsd": 8297797,
+    "apy": 4.53776,
+    "apyBase": 4.53776,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-16T23:01:58.203Z",
+    "tvlUsd": 8389823,
+    "apy": 4.9385,
+    "apyBase": 4.9385,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-17T23:01:36.325Z",
+    "tvlUsd": 8352420,
+    "apy": 4.94835,
+    "apyBase": 4.94835,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-18T23:01:34.415Z",
+    "tvlUsd": 8760756,
+    "apy": 2.79913,
+    "apyBase": 2.79913,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-19T23:01:32.777Z",
+    "tvlUsd": 8759659,
+    "apy": 2.80659,
+    "apyBase": 2.80659,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-20T23:01:27.624Z",
+    "tvlUsd": 8940787,
+    "apy": 2.80978,
+    "apyBase": 2.80978,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-21T23:01:36.326Z",
+    "tvlUsd": 8735771,
+    "apy": 4.6204,
+    "apyBase": 4.6204,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-22T23:01:26.246Z",
+    "tvlUsd": 8561067,
+    "apy": 4.90251,
+    "apyBase": 4.90251,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-23T23:01:25.352Z",
+    "tvlUsd": 8237230,
+    "apy": 3.90465,
+    "apyBase": 3.90465,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-24T23:02:42.662Z",
+    "tvlUsd": 8210386,
+    "apy": 4.13917,
+    "apyBase": 4.13917,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-25T23:02:12.672Z",
+    "tvlUsd": 7932985,
+    "apy": 8.93187,
+    "apyBase": 8.93187,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-26T23:02:02.113Z",
+    "tvlUsd": 7996509,
+    "apy": 4.49699,
+    "apyBase": 4.49699,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-27T23:01:36.184Z",
+    "tvlUsd": 7940584,
+    "apy": 7.29089,
+    "apyBase": 7.29089,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-28T23:01:53.455Z",
+    "tvlUsd": 7928869,
+    "apy": 8.40494,
+    "apyBase": 8.40494,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-29T23:02:41.180Z",
+    "tvlUsd": 8148215,
+    "apy": 9.58548,
+    "apyBase": 9.58548,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-30T23:02:48.574Z",
+    "tvlUsd": 8007610,
+    "apy": 10.98717,
+    "apyBase": 10.98717,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-10-31T23:01:30.966Z",
+    "tvlUsd": 7726854,
+    "apy": 4.97396,
+    "apyBase": 4.97396,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-01T23:02:19.440Z",
+    "tvlUsd": 7688020,
+    "apy": 4.73106,
+    "apyBase": 4.73106,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-02T23:01:17.082Z",
+    "tvlUsd": 7656690,
+    "apy": 4.74253,
+    "apyBase": 4.74253,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-03T23:01:27.775Z",
+    "tvlUsd": 7525751,
+    "apy": 7.34863,
+    "apyBase": 7.34863,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-04T23:01:17.994Z",
+    "tvlUsd": 7275188,
+    "apy": 5.09112,
+    "apyBase": 5.09112,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-05T23:01:41.134Z",
+    "tvlUsd": 7411432,
+    "apy": 5.53187,
+    "apyBase": 5.53187,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-06T23:01:29.149Z",
+    "tvlUsd": 8035202,
+    "apy": 16.79078,
+    "apyBase": 16.79078,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-07T23:01:29.831Z",
+    "tvlUsd": 6472230,
+    "apy": 9.17776,
+    "apyBase": 9.17776,
+    "apyReward": 0,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-08T23:01:35.336Z",
+    "tvlUsd": 5742706,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-09T23:01:21.637Z",
+    "tvlUsd": 5977330,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-10T23:01:34.121Z",
+    "tvlUsd": 6178094,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-11T23:03:16.972Z",
+    "tvlUsd": 6561607,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-12T23:01:18.675Z",
+    "tvlUsd": 6468188,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-13T23:01:24.946Z",
+    "tvlUsd": 6218489,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-14T23:01:50.961Z",
+    "tvlUsd": 6143263,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-15T23:02:05.096Z",
+    "tvlUsd": 5899854,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-16T23:01:53.251Z",
+    "tvlUsd": 6057469,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-17T23:01:19.087Z",
+    "tvlUsd": 5923249,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-18T23:01:33.950Z",
+    "tvlUsd": 6055484,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-19T23:01:57.523Z",
+    "tvlUsd": 5918180,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-20T23:01:34.603Z",
+    "tvlUsd": 5738272,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-21T23:01:40.021Z",
+    "tvlUsd": 6247616,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-22T23:01:25.896Z",
+    "tvlUsd": 5994144,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-23T23:01:24.778Z",
+    "tvlUsd": 6231797,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-24T23:02:23.674Z",
+    "tvlUsd": 5946677,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-25T23:01:46.039Z",
+    "tvlUsd": 5518378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-26T23:01:25.222Z",
+    "tvlUsd": 5325646,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-27T23:01:31.350Z",
+    "tvlUsd": 5822700,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-28T23:01:57.325Z",
+    "tvlUsd": 5736136,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-29T23:01:24.936Z",
+    "tvlUsd": 5757494,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-11-30T23:01:25.441Z",
+    "tvlUsd": 5977406,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-01T23:01:42.498Z",
+    "tvlUsd": 5977376,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-02T23:01:24.458Z",
+    "tvlUsd": 5375020,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-03T23:01:29.935Z",
+    "tvlUsd": 5386405,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-04T23:17:15.688Z",
+    "tvlUsd": 5747060,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-05T23:01:27.112Z",
+    "tvlUsd": 5765528,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-06T23:02:26.457Z",
+    "tvlUsd": 6027548,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-07T23:01:33.790Z",
+    "tvlUsd": 6012332,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-08T23:01:30.607Z",
+    "tvlUsd": 5960934,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-09T23:01:15.728Z",
+    "tvlUsd": 5769924,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-10T23:02:36.858Z",
+    "tvlUsd": 5449587,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-11T23:01:19.405Z",
+    "tvlUsd": 5741679,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-12T23:01:20.156Z",
+    "tvlUsd": 6114835,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-13T23:01:20.018Z",
+    "tvlUsd": 6137110,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-14T23:01:36.944Z",
+    "tvlUsd": 6056907,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-15T23:01:16.567Z",
+    "tvlUsd": 6066113,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-16T23:01:28.992Z",
+    "tvlUsd": 6868056,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-17T23:01:45.204Z",
+    "tvlUsd": 7226120,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-18T23:04:00.169Z",
+    "tvlUsd": 6484774,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-19T23:02:47.712Z",
+    "tvlUsd": 6117606,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-20T23:01:27.001Z",
+    "tvlUsd": 6253131,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-21T23:03:45.588Z",
+    "tvlUsd": 6026948,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-22T23:01:38.167Z",
+    "tvlUsd": 5994507,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-23T23:03:33.035Z",
+    "tvlUsd": 6237377,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-24T23:01:44.170Z",
+    "tvlUsd": 6331164,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-25T23:01:36.288Z",
+    "tvlUsd": 6338137,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-26T23:03:27.965Z",
+    "tvlUsd": 6119241,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-27T23:01:20.131Z",
+    "tvlUsd": 6095335,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-28T23:01:23.751Z",
+    "tvlUsd": 6216676,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-29T23:01:24.949Z",
+    "tvlUsd": 6145482,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-30T23:02:36.863Z",
+    "tvlUsd": 6066408,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2024-12-31T23:03:25.825Z",
+    "tvlUsd": 6135339,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-01T23:03:41.081Z",
+    "tvlUsd": 6163893,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-02T23:02:27.939Z",
+    "tvlUsd": 6330805,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-03T23:01:49.583Z",
+    "tvlUsd": 6625750,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-04T23:03:38.657Z",
+    "tvlUsd": 6707290,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-05T23:01:41.917Z",
+    "tvlUsd": 6676536,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-06T23:02:58.132Z",
+    "tvlUsd": 6734852,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-07T23:01:57.949Z",
+    "tvlUsd": 6166741,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-08T23:02:30.294Z",
+    "tvlUsd": 6131710,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-09T23:01:24.628Z",
+    "tvlUsd": 6006202,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-10T23:03:51.783Z",
+    "tvlUsd": 6119655,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-11T23:01:18.021Z",
+    "tvlUsd": 6206790,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-12T23:01:18.465Z",
+    "tvlUsd": 6140888,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-13T23:01:27.933Z",
+    "tvlUsd": 5856249,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-14T23:01:46.411Z",
+    "tvlUsd": 6042402,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-15T23:02:21.270Z",
+    "tvlUsd": 6468437,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-16T23:02:51.877Z",
+    "tvlUsd": 6250715,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-17T23:01:36.840Z",
+    "tvlUsd": 6537034,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-18T23:01:30.598Z",
+    "tvlUsd": 6157679,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-19T23:01:26.320Z",
+    "tvlUsd": 6067905,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-20T23:01:26.775Z",
+    "tvlUsd": 6165135,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-21T22:01:33.728Z",
+    "tvlUsd": 6247487,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-22T23:01:29.349Z",
+    "tvlUsd": 6010854,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-23T23:01:31.101Z",
+    "tvlUsd": 6014739,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-24T23:01:27.149Z",
+    "tvlUsd": 6185730,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-25T23:01:35.102Z",
+    "tvlUsd": 6131742,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-26T23:01:21.826Z",
+    "tvlUsd": 6071079,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-27T23:01:27.595Z",
+    "tvlUsd": 5417879,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-28T23:01:32.476Z",
+    "tvlUsd": 4717594,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-29T23:01:19.291Z",
+    "tvlUsd": 4854070,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-30T23:01:29.269Z",
+    "tvlUsd": 5011159,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-01-31T23:01:46.966Z",
+    "tvlUsd": 5058484,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-01T23:01:39.198Z",
+    "tvlUsd": 3119666,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-02T23:01:42.687Z",
+    "tvlUsd": 2873553,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-03T23:01:28.222Z",
+    "tvlUsd": 3290721,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-04T23:01:18.959Z",
+    "tvlUsd": 3104482,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-05T23:01:41.054Z",
+    "tvlUsd": 3213408,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-06T23:01:21.872Z",
+    "tvlUsd": 3081124,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-07T23:01:36.468Z",
+    "tvlUsd": 2976627,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-08T23:01:49.569Z",
+    "tvlUsd": 3024813,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-09T23:02:18.378Z",
+    "tvlUsd": 2938945,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-10T23:01:32.046Z",
+    "tvlUsd": 3069584,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-11T23:01:22.133Z",
+    "tvlUsd": 3020483,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-12T23:01:29.529Z",
+    "tvlUsd": 2881781,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-13T23:02:45.625Z",
+    "tvlUsd": 2854084,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-14T23:01:33.301Z",
+    "tvlUsd": 3233385,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-15T23:01:24.047Z",
+    "tvlUsd": 3175938,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-16T23:01:26.825Z",
+    "tvlUsd": 3166458,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-17T23:17:23.843Z",
+    "tvlUsd": 3242994,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-18T23:01:29.372Z",
+    "tvlUsd": 3194060,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-19T23:01:49.488Z",
+    "tvlUsd": 3358065,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-20T23:01:42.886Z",
+    "tvlUsd": 3468663,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-21T23:01:39.457Z",
+    "tvlUsd": 3433197,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-22T23:01:51.863Z",
+    "tvlUsd": 3604882,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-23T23:01:29.566Z",
+    "tvlUsd": 3650836,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-24T23:01:48.621Z",
+    "tvlUsd": 3442999,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-25T23:02:32.443Z",
+    "tvlUsd": 3294934,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-26T23:01:46.468Z",
+    "tvlUsd": 3172574,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-27T23:17:39.332Z",
+    "tvlUsd": 3111631,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-02-28T23:01:28.037Z",
+    "tvlUsd": 2988861,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-01T23:01:54.480Z",
+    "tvlUsd": 2984544,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-02T23:01:27.765Z",
+    "tvlUsd": 3370527,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-03T23:01:41.833Z",
+    "tvlUsd": 2823915,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-04T23:01:23.503Z",
+    "tvlUsd": 2893272,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-05T23:01:34.884Z",
+    "tvlUsd": 2956965,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-06T23:01:33.428Z",
+    "tvlUsd": 2930590,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-07T23:02:46.782Z",
+    "tvlUsd": 2838583,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-08T23:01:27.199Z",
+    "tvlUsd": 2943538,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-09T23:01:31.648Z",
+    "tvlUsd": 2689495,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-10T23:01:35.752Z",
+    "tvlUsd": 2470074,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-11T23:01:54.992Z",
+    "tvlUsd": 2524982,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-12T14:33:13.780Z",
+    "tvlUsd": 2510398,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-13T23:17:25.096Z",
+    "tvlUsd": 2447478,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-14T23:02:30.532Z",
+    "tvlUsd": 2474843,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-15T23:01:29.378Z",
+    "tvlUsd": 2474843,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-16T23:02:32.247Z",
+    "tvlUsd": 2474843,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-17T23:01:30.139Z",
+    "tvlUsd": 2474843,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-18T23:01:33.298Z",
+    "tvlUsd": 2474843,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-19T23:01:26.186Z",
+    "tvlUsd": 2525858,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-20T23:01:34.941Z",
+    "tvlUsd": 2597859,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-21T23:01:44.122Z",
+    "tvlUsd": 2597859,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-22T23:01:32.619Z",
+    "tvlUsd": 2597859,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-23T23:01:44.643Z",
+    "tvlUsd": 2597859,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-24T23:01:35.044Z",
+    "tvlUsd": 2597859,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-25T23:02:00.309Z",
+    "tvlUsd": 2696378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-26T23:01:45.682Z",
+    "tvlUsd": 2696378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-27T23:01:31.884Z",
+    "tvlUsd": 2696378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-28T23:02:33.452Z",
+    "tvlUsd": 2696378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-29T23:02:59.454Z",
+    "tvlUsd": 2696378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-30T23:01:28.048Z",
+    "tvlUsd": 2696378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-03-31T23:17:28.124Z",
+    "tvlUsd": 2696378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-01T23:01:34.583Z",
+    "tvlUsd": 2696378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-02T23:01:21.907Z",
+    "tvlUsd": 2696378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-03T23:01:41.361Z",
+    "tvlUsd": 2696378,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-04T23:02:27.847Z",
+    "tvlUsd": 2222152,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-05T23:01:33.026Z",
+    "tvlUsd": 2249234,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-06T23:01:33.529Z",
+    "tvlUsd": 2106848,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-07T23:01:33.617Z",
+    "tvlUsd": 1652652,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-08T23:01:55.593Z",
+    "tvlUsd": 1640998,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-09T23:01:40.018Z",
+    "tvlUsd": 1614457,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-10T23:01:29.551Z",
+    "tvlUsd": 1797677,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-11T23:01:22.541Z",
+    "tvlUsd": 1797677,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-12T23:01:33.258Z",
+    "tvlUsd": 1797677,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-13T23:01:26.615Z",
+    "tvlUsd": 1797677,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-14T23:01:33.662Z",
+    "tvlUsd": 1858524,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-15T23:01:39.095Z",
+    "tvlUsd": 1858524,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-16T23:01:27.934Z",
+    "tvlUsd": 1751932,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-17T23:01:32.330Z",
+    "tvlUsd": 1668179,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-18T23:02:06.570Z",
+    "tvlUsd": 1645912,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-19T23:01:40.978Z",
+    "tvlUsd": 1645912,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-20T23:01:47.056Z",
+    "tvlUsd": 1645912,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-21T23:01:52.325Z",
+    "tvlUsd": 1645912,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-22T23:01:31.860Z",
+    "tvlUsd": 2654286,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-23T23:01:31.010Z",
+    "tvlUsd": 2654286,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-24T23:01:20.240Z",
+    "tvlUsd": 2654286,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-25T23:01:42.983Z",
+    "tvlUsd": 2654286,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-26T23:01:29.351Z",
+    "tvlUsd": 3587547,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-27T23:01:33.813Z",
+    "tvlUsd": 3587547,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-28T23:01:31.107Z",
+    "tvlUsd": 3587547,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-29T23:01:24.149Z",
+    "tvlUsd": 3587547,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-04-30T23:01:29.083Z",
+    "tvlUsd": 3587547,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-01T23:01:33.753Z",
+    "tvlUsd": 3588370,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-02T23:01:39.794Z",
+    "tvlUsd": 3588370,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-03T23:01:48.045Z",
+    "tvlUsd": 3588370,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-04T23:01:33.366Z",
+    "tvlUsd": 3588370,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-05T23:01:39.276Z",
+    "tvlUsd": 3588370,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-06T23:01:43.475Z",
+    "tvlUsd": 3588370,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-07T23:01:28.787Z",
+    "tvlUsd": 3608020,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-08T23:01:24.700Z",
+    "tvlUsd": 3608020,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-09T23:01:54.933Z",
+    "tvlUsd": 3608020,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-10T23:01:23.215Z",
+    "tvlUsd": 3608020,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-11T23:01:39.227Z",
+    "tvlUsd": 3608020,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-12T23:01:35.783Z",
+    "tvlUsd": 3608020,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-13T23:17:21.769Z",
+    "tvlUsd": 3608020,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-14T23:01:31.138Z",
+    "tvlUsd": 3624486,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-15T23:01:34.758Z",
+    "tvlUsd": 3624486,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-16T23:01:34.076Z",
+    "tvlUsd": 3624486,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-17T03:01:39.852Z",
+    "tvlUsd": 3624486,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-19T23:01:28.334Z",
+    "tvlUsd": 3624486,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-20T23:01:21.424Z",
+    "tvlUsd": 3789300,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-21T23:02:16.768Z",
+    "tvlUsd": 3969290,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-22T23:02:26.852Z",
+    "tvlUsd": 4206764,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-23T23:02:26.562Z",
+    "tvlUsd": 4265411,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-24T23:02:32.178Z",
+    "tvlUsd": 4265411,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-25T23:02:11.593Z",
+    "tvlUsd": 4006392,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-26T23:02:26.234Z",
+    "tvlUsd": 4006392,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-27T23:02:35.086Z",
+    "tvlUsd": 4006392,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-28T23:03:21.146Z",
+    "tvlUsd": 5029016,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-29T23:02:32.736Z",
+    "tvlUsd": 5029016,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-30T23:02:17.960Z",
+    "tvlUsd": 5029016,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-05-31T23:02:08.434Z",
+    "tvlUsd": 8742812,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-01T23:02:11.589Z",
+    "tvlUsd": 8742812,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-02T23:02:03.619Z",
+    "tvlUsd": 8742812,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-03T23:02:19.739Z",
+    "tvlUsd": 8742812,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-04T23:03:32.565Z",
+    "tvlUsd": 9050025,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-05T23:02:33.244Z",
+    "tvlUsd": 9058506,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-06T23:02:53.863Z",
+    "tvlUsd": 8685832,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-07T23:02:28.301Z",
+    "tvlUsd": 11152698,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-08T23:02:32.509Z",
+    "tvlUsd": 11097297,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-09T23:03:00.946Z",
+    "tvlUsd": 11780006,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-10T23:02:08.192Z",
+    "tvlUsd": 12282478,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-11T23:02:34.763Z",
+    "tvlUsd": 12163376,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-12T23:02:39.453Z",
+    "tvlUsd": 11591767,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-13T23:02:17.689Z",
+    "tvlUsd": 11844494,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-14T23:02:23.406Z",
+    "tvlUsd": 11639898,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-15T23:02:08.298Z",
+    "tvlUsd": 11644227,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-16T23:02:15.998Z",
+    "tvlUsd": 12018880,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-17T23:02:43.507Z",
+    "tvlUsd": 9733216,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-18T23:02:42.198Z",
+    "tvlUsd": 9777000,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-19T23:02:20.399Z",
+    "tvlUsd": 9889220,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-20T23:02:21.359Z",
+    "tvlUsd": 9419347,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-21T23:02:25.990Z",
+    "tvlUsd": 9695438,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-22T23:02:47.257Z",
+    "tvlUsd": 9395583,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-23T23:01:42.645Z",
+    "tvlUsd": 10165229,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-24T23:01:30.294Z",
+    "tvlUsd": 9709349,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-25T23:01:38.617Z",
+    "tvlUsd": 9651295,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-26T23:01:28.783Z",
+    "tvlUsd": 16928116,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-27T23:01:36.919Z",
+    "tvlUsd": 16988782,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-28T23:01:39.226Z",
+    "tvlUsd": 17069606,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-29T23:01:29.742Z",
+    "tvlUsd": 17321926,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-06-30T23:02:38.066Z",
+    "tvlUsd": 17457872,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-01T23:01:47.392Z",
+    "tvlUsd": 19654902,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-02T23:02:09.333Z",
+    "tvlUsd": 21127635,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-03T23:01:19.835Z",
+    "tvlUsd": 21173255,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-04T23:02:56.597Z",
+    "tvlUsd": 20365961,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-05T23:10:48.580Z",
+    "tvlUsd": 20502014,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-06T23:01:42.093Z",
+    "tvlUsd": 21132226,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-07T23:04:16.803Z",
+    "tvlUsd": 20771011,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-08T23:02:37.002Z",
+    "tvlUsd": 21340934,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-09T23:01:52.815Z",
+    "tvlUsd": 22680389,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-10T23:02:51.970Z",
+    "tvlUsd": 23792827,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-11T23:01:50.286Z",
+    "tvlUsd": 23651743,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-12T23:02:23.201Z",
+    "tvlUsd": 22727665,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-13T23:02:33.490Z",
+    "tvlUsd": 19729074,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-14T23:01:47.731Z",
+    "tvlUsd": 20026057,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-15T23:02:01.798Z",
+    "tvlUsd": 20476586,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-16T23:01:45.829Z",
+    "tvlUsd": 22479261,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-17T23:03:54.466Z",
+    "tvlUsd": 23721889,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-18T23:03:40.245Z",
+    "tvlUsd": 24363207,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-19T23:02:53.996Z",
+    "tvlUsd": 24347497,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-20T23:03:22.089Z",
+    "tvlUsd": 24563485,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-21T23:02:19.756Z",
+    "tvlUsd": 24974241,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-22T23:02:50.319Z",
+    "tvlUsd": 24603576,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-23T23:02:48.981Z",
+    "tvlUsd": 23750177,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-24T23:03:02.633Z",
+    "tvlUsd": 24692283,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-25T23:03:17.048Z",
+    "tvlUsd": 24795690,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-26T23:03:50.998Z",
+    "tvlUsd": 25036898,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-27T23:04:06.201Z",
+    "tvlUsd": 25718573,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-28T23:03:15.675Z",
+    "tvlUsd": 25473840,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-29T23:03:38.252Z",
+    "tvlUsd": 25364386,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-30T23:02:52.571Z",
+    "tvlUsd": 27271464,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-07-31T23:02:50.978Z",
+    "tvlUsd": 28028216,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-01T23:05:51.795Z",
+    "tvlUsd": 30341891,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-02T23:06:10.352Z",
+    "tvlUsd": 30046347,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-03T23:02:48.384Z",
+    "tvlUsd": 30874876,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-04T23:01:41.908Z",
+    "tvlUsd": 32980698,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-05T23:02:30.542Z",
+    "tvlUsd": 44155404,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-06T23:03:23.761Z",
+    "tvlUsd": 45672736,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-07T23:02:50.215Z",
+    "tvlUsd": 49658007,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-08T23:05:35.148Z",
+    "tvlUsd": 51582268,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-09T23:02:05.324Z",
+    "tvlUsd": 57829624,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-10T23:18:50.088Z",
+    "tvlUsd": 56469389,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-11T23:02:46.618Z",
+    "tvlUsd": 56604533,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-12T23:03:14.913Z",
+    "tvlUsd": 64157441,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-13T23:34:38.403Z",
+    "tvlUsd": 67564856,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-14T23:04:58.219Z",
+    "tvlUsd": 64674438,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-15T23:02:46.506Z",
+    "tvlUsd": 63471251,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-16T23:04:11.914Z",
+    "tvlUsd": 63060393,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-17T23:02:59.244Z",
+    "tvlUsd": 64791934,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-18T23:05:02.127Z",
+    "tvlUsd": 62787085,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-19T23:02:50.471Z",
+    "tvlUsd": 59344426,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-20T23:02:42.440Z",
+    "tvlUsd": 62357358,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-21T23:03:32.404Z",
+    "tvlUsd": 61011015,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-22T23:03:53.595Z",
+    "tvlUsd": 69745529,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-23T23:06:12.506Z",
+    "tvlUsd": 68576952,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-24T23:03:04.075Z",
+    "tvlUsd": 68352168,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-25T23:06:05.424Z",
+    "tvlUsd": 64143714,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-26T23:03:32.231Z",
+    "tvlUsd": 67150332,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-27T23:35:29.974Z",
+    "tvlUsd": 66404006,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-28T23:02:29.433Z",
+    "tvlUsd": 65810058,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-29T23:03:13.853Z",
+    "tvlUsd": 63843640,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-30T23:03:00.473Z",
+    "tvlUsd": 63794937,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-08-31T23:03:05.737Z",
+    "tvlUsd": 68207446,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-01T23:03:19.114Z",
+    "tvlUsd": 70515765,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-02T23:03:14.717Z",
+    "tvlUsd": 70801795,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-03T23:04:30.367Z",
+    "tvlUsd": 75406482,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-04T23:03:19.893Z",
+    "tvlUsd": 74098955,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-05T23:03:14.627Z",
+    "tvlUsd": 68833660,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-06T23:04:16.710Z",
+    "tvlUsd": 68424001,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-07T23:03:17.134Z",
+    "tvlUsd": 76877516,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-08T23:03:10.866Z",
+    "tvlUsd": 72192712,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-09T23:03:41.760Z",
+    "tvlUsd": 64267130,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-10T23:02:29.071Z",
+    "tvlUsd": 64592731,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-11T23:04:41.540Z",
+    "tvlUsd": 65867284,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-12T23:03:16.096Z",
+    "tvlUsd": 70304611,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-13T23:03:40.852Z",
+    "tvlUsd": 76010951,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-14T23:03:45.289Z",
+    "tvlUsd": 80576316,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-15T23:03:51.098Z",
+    "tvlUsd": 78783451,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-16T23:03:31.308Z",
+    "tvlUsd": 78464864,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-17T23:03:12.820Z",
+    "tvlUsd": 79487046,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-18T23:03:29.061Z",
+    "tvlUsd": 79818680,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-19T23:05:32.893Z",
+    "tvlUsd": 77803049,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-20T23:03:17.389Z",
+    "tvlUsd": 58001675,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-21T23:03:06.916Z",
+    "tvlUsd": 56917735,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-22T23:03:52.242Z",
+    "tvlUsd": 69086896,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-23T23:04:12.627Z",
+    "tvlUsd": 69088533,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-24T23:03:36.632Z",
+    "tvlUsd": 67271142,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-25T23:04:07.290Z",
+    "tvlUsd": 70269932,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-26T23:03:17.656Z",
+    "tvlUsd": 73016987,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-27T23:03:18.200Z",
+    "tvlUsd": 72988055,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-28T23:03:31.168Z",
+    "tvlUsd": 74589519,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-29T23:03:24.979Z",
+    "tvlUsd": 75862641,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-09-30T23:03:24.959Z",
+    "tvlUsd": 74498463,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-01T23:03:03.211Z",
+    "tvlUsd": 77465480,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-02T23:02:55.201Z",
+    "tvlUsd": 80149353,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-03T23:34:59.211Z",
+    "tvlUsd": 76587157,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-04T23:03:08.110Z",
+    "tvlUsd": 75892170,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-05T23:03:17.582Z",
+    "tvlUsd": 76212669,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-06T23:03:01.013Z",
+    "tvlUsd": 79223203,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-07T23:03:49.703Z",
+    "tvlUsd": 75881151,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-08T23:03:18.788Z",
+    "tvlUsd": 76383071,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-09T23:05:28.182Z",
+    "tvlUsd": 73995139,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-10T23:04:17.746Z",
+    "tvlUsd": 73014000,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-11T23:04:06.587Z",
+    "tvlUsd": 72365332,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-12T23:04:11.483Z",
+    "tvlUsd": 80030294,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-13T23:04:06.080Z",
+    "tvlUsd": 82256012,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-14T23:04:22.349Z",
+    "tvlUsd": 79028644,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-15T23:04:33.983Z",
+    "tvlUsd": 75680476,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-16T23:02:02.767Z",
+    "tvlUsd": 74257747,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-17T23:02:06.761Z",
+    "tvlUsd": 57732900,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-18T23:02:07.088Z",
+    "tvlUsd": 57909710,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-19T23:02:08.867Z",
+    "tvlUsd": 59613648,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-20T23:02:04.380Z",
+    "tvlUsd": 59921082,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-21T23:34:12.123Z",
+    "tvlUsd": 59045833,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-22T23:01:55.818Z",
+    "tvlUsd": 30930776,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-23T23:01:49.652Z",
+    "tvlUsd": 31621430,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-24T23:01:55.307Z",
+    "tvlUsd": 38473182,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-25T23:03:24.239Z",
+    "tvlUsd": 38564728,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-26T23:01:35.310Z",
+    "tvlUsd": 40380597,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-27T23:02:37.793Z",
+    "tvlUsd": 40972055,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-28T23:01:46.113Z",
+    "tvlUsd": 39421830,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-29T23:01:55.357Z",
+    "tvlUsd": 49153403,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-30T23:03:01.107Z",
+    "tvlUsd": 281341481,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-10-31T23:02:44.272Z",
+    "tvlUsd": 287447977,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-01T23:02:10.585Z",
+    "tvlUsd": 297381120,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-02T23:01:47.587Z",
+    "tvlUsd": 295181302,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-03T23:02:38.310Z",
+    "tvlUsd": 278077426,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-04T23:02:38.435Z",
+    "tvlUsd": 240249461,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-05T23:01:48.399Z",
+    "tvlUsd": 308391610,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-06T23:02:49.543Z",
+    "tvlUsd": 292018662,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-07T23:02:15.405Z",
+    "tvlUsd": 285734685,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-08T23:02:34.816Z",
+    "tvlUsd": 289530273,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-09T23:01:54.140Z",
+    "tvlUsd": 305473277,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-10T23:01:43.815Z",
+    "tvlUsd": 307234301,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-11T23:01:41.859Z",
+    "tvlUsd": 299618680,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-12T23:02:46.056Z",
+    "tvlUsd": 298941679,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-13T23:01:38.517Z",
+    "tvlUsd": 269869632,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-14T23:02:18.562Z",
+    "tvlUsd": 285915068,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-15T23:01:47.086Z",
+    "tvlUsd": 287906681,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-16T23:02:01.528Z",
+    "tvlUsd": 286483114,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-17T23:02:28.256Z",
+    "tvlUsd": 295609688,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-18T23:02:48.888Z",
+    "tvlUsd": 309723313,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-19T23:02:09.965Z",
+    "tvlUsd": 253898223,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-20T23:01:58.041Z",
+    "tvlUsd": 90534442,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-21T23:09:26.228Z",
+    "tvlUsd": 84537874,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-22T23:07:46.689Z",
+    "tvlUsd": 83385408,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-23T23:02:56.395Z",
+    "tvlUsd": 85909877,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-24T23:33:50.452Z",
+    "tvlUsd": 90103891,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-25T23:02:08.802Z",
+    "tvlUsd": 88671890,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-26T23:01:49.323Z",
+    "tvlUsd": 113889897,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-27T23:02:04.797Z",
+    "tvlUsd": 115765096,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-28T23:02:14.506Z",
+    "tvlUsd": 116009197,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-29T23:01:42.585Z",
+    "tvlUsd": 123691623,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-11-30T23:01:57.883Z",
+    "tvlUsd": 124837281,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-01T23:02:39.148Z",
+    "tvlUsd": 101618604,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-02T23:02:17.097Z",
+    "tvlUsd": 120729726,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-03T23:03:10.290Z",
+    "tvlUsd": 121487272,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-04T23:02:00.374Z",
+    "tvlUsd": 109671502,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-05T23:02:33.288Z",
+    "tvlUsd": 84834604,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-06T23:03:42.502Z",
+    "tvlUsd": 82935707,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-07T23:02:03.021Z",
+    "tvlUsd": 85841355,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-08T23:01:44.014Z",
+    "tvlUsd": 87082922,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-09T09:02:02.803Z",
+    "tvlUsd": 87082922,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-10T23:02:05.271Z",
+    "tvlUsd": 71661726,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-11T23:01:54.737Z",
+    "tvlUsd": 69725273,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-12T23:02:28.223Z",
+    "tvlUsd": 66430509,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-13T23:02:04.263Z",
+    "tvlUsd": 66991741,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-14T23:02:42.179Z",
+    "tvlUsd": 70495587,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-15T23:02:03.048Z",
+    "tvlUsd": 67065100,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-16T23:02:18.251Z",
+    "tvlUsd": 53811191,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-17T23:02:11.351Z",
+    "tvlUsd": 32683447,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-18T23:02:09.059Z",
+    "tvlUsd": 48743116,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-19T23:02:14.652Z",
+    "tvlUsd": 55402967,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-20T23:02:25.166Z",
+    "tvlUsd": 55228930,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-21T23:02:19.265Z",
+    "tvlUsd": 55442781,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-22T23:02:05.756Z",
+    "tvlUsd": 55451028,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-23T23:03:29.511Z",
+    "tvlUsd": 55324988,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-24T23:02:21.055Z",
+    "tvlUsd": 54798624,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-25T23:02:29.982Z",
+    "tvlUsd": 54734549,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-26T23:03:23.686Z",
+    "tvlUsd": 54388309,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-27T23:02:11.636Z",
+    "tvlUsd": 54281290,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-28T23:01:52.292Z",
+    "tvlUsd": 54644004,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-29T23:01:49.210Z",
+    "tvlUsd": 55572181,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-30T23:01:56.083Z",
+    "tvlUsd": 55254997,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2025-12-31T23:01:58.132Z",
+    "tvlUsd": 57247861,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-01T23:01:53.558Z",
+    "tvlUsd": 57708616,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-02T23:01:59.469Z",
+    "tvlUsd": 62455901,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-03T23:02:11.686Z",
+    "tvlUsd": 63502228,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-04T23:02:11.620Z",
+    "tvlUsd": 64134221,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-05T23:02:52.025Z",
+    "tvlUsd": 69245849,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-06T23:01:48.845Z",
+    "tvlUsd": 77493375,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-07T23:01:55.671Z",
+    "tvlUsd": 73591835,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-08T23:01:56.358Z",
+    "tvlUsd": 65901682,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-09T23:01:58.887Z",
+    "tvlUsd": 65616763,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-10T23:01:39.963Z",
+    "tvlUsd": 65744451,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-11T23:01:56.486Z",
+    "tvlUsd": 65890063,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-12T23:02:05.586Z",
+    "tvlUsd": 65784947,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-13T23:02:07.759Z",
+    "tvlUsd": 70003155,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-14T23:01:51.840Z",
+    "tvlUsd": 61682809,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-15T23:02:02.172Z",
+    "tvlUsd": 52380842,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-16T23:02:24.342Z",
+    "tvlUsd": 55768718,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-17T23:02:05.908Z",
+    "tvlUsd": 56430347,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-18T23:02:08.181Z",
+    "tvlUsd": 59170715,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-19T23:02:06.475Z",
+    "tvlUsd": 56992718,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-20T23:01:57.822Z",
+    "tvlUsd": 53668314,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-21T23:01:40.989Z",
+    "tvlUsd": 54561753,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-22T23:01:53.155Z",
+    "tvlUsd": 57031439,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-23T23:02:03.424Z",
+    "tvlUsd": 56794508,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-24T23:02:07.800Z",
+    "tvlUsd": 58236098,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-25T23:01:44.673Z",
+    "tvlUsd": 57562014,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-26T23:01:49.729Z",
+    "tvlUsd": 63977415,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-27T23:01:49.049Z",
+    "tvlUsd": 66201327,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-28T23:02:05.155Z",
+    "tvlUsd": 68800668,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-29T23:01:48.847Z",
+    "tvlUsd": 63130750,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-30T23:01:58.647Z",
+    "tvlUsd": 62290828,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-01-31T23:02:07.247Z",
+    "tvlUsd": 59598124,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-01T23:02:17.555Z",
+    "tvlUsd": 53524747,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-02T23:01:55.461Z",
+    "tvlUsd": 56385914,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-03T23:01:46.584Z",
+    "tvlUsd": 52326090,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-04T23:03:13.161Z",
+    "tvlUsd": 49755117,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-05T23:01:52.143Z",
+    "tvlUsd": 40990809,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-06T23:02:33.217Z",
+    "tvlUsd": 46531387,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-07T23:01:53.135Z",
+    "tvlUsd": 44739400,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-08T23:02:13.481Z",
+    "tvlUsd": 47201491,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-09T23:04:54.653Z",
+    "tvlUsd": 47383625,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-10T23:02:05.721Z",
+    "tvlUsd": 46620278,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-11T23:02:03.445Z",
+    "tvlUsd": 45633743,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-12T23:02:05.131Z",
+    "tvlUsd": 44315492,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-13T23:02:03.017Z",
+    "tvlUsd": 47207764,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-14T23:01:49.843Z",
+    "tvlUsd": 48033141,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-15T23:02:35.598Z",
+    "tvlUsd": 45001612,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-16T23:01:57.079Z",
+    "tvlUsd": 46437727,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-17T23:01:54.222Z",
+    "tvlUsd": 46276471,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-18T23:02:06.621Z",
+    "tvlUsd": 43705930,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-19T23:01:52.853Z",
+    "tvlUsd": 44202971,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-20T23:02:42.036Z",
+    "tvlUsd": 38054947,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-21T23:03:45.359Z",
+    "tvlUsd": 35888156,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-22T23:02:27.651Z",
+    "tvlUsd": 32320335,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-23T23:01:53.609Z",
+    "tvlUsd": 30992529,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-24T23:01:56.928Z",
+    "tvlUsd": 30778163,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-25T23:18:41.372Z",
+    "tvlUsd": 34890405,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-26T23:01:44.931Z",
+    "tvlUsd": 33513764,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-27T23:02:03.448Z",
+    "tvlUsd": 31878030,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-02-28T23:02:38.191Z",
+    "tvlUsd": 37171212,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-01T23:02:59.144Z",
+    "tvlUsd": 34732734,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-02T23:02:31.202Z",
+    "tvlUsd": 35843372,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-03T23:02:42.556Z",
+    "tvlUsd": 32719519,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-04T23:02:27.479Z",
+    "tvlUsd": 135764395,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-05T23:03:55.606Z",
+    "tvlUsd": 129262917,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-06T23:02:35.834Z",
+    "tvlUsd": 121838084,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-07T23:04:08.295Z",
+    "tvlUsd": 123220480,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-08T23:02:23.970Z",
+    "tvlUsd": 122738915,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-09T23:02:57.245Z",
+    "tvlUsd": 126608300,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-10T23:02:54.118Z",
+    "tvlUsd": 127108069,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-11T23:18:28.643Z",
+    "tvlUsd": 129193738,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-12T23:04:11.927Z",
+    "tvlUsd": 129293409,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-13T23:03:08.544Z",
+    "tvlUsd": 121944678,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-14T23:03:18.818Z",
+    "tvlUsd": 121181976,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-15T23:04:17.460Z",
+    "tvlUsd": 123917713,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-16T23:18:41.977Z",
+    "tvlUsd": 135526511,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-17T23:02:59.352Z",
+    "tvlUsd": 134979589,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-18T23:34:41.548Z",
+    "tvlUsd": 127614373,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-19T23:03:27.272Z",
+    "tvlUsd": 124199342,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-20T23:02:40.951Z",
+    "tvlUsd": 170383150,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-21T23:03:10.631Z",
+    "tvlUsd": 171166681,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-22T23:03:04.197Z",
+    "tvlUsd": 163335564,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-23T23:04:00.940Z",
+    "tvlUsd": 171604291,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-24T23:19:06.512Z",
+    "tvlUsd": 171892508,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-25T23:34:16.518Z",
+    "tvlUsd": 436419029,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-26T23:34:40.929Z",
+    "tvlUsd": 416400705,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-27T23:03:09.760Z",
+    "tvlUsd": 400721371,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-28T23:03:24.645Z",
+    "tvlUsd": 405861712,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-29T22:02:40.698Z",
+    "tvlUsd": 403104827,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-30T23:03:55.836Z",
+    "tvlUsd": 411885002,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-03-31T15:03:49.933Z",
+    "tvlUsd": 416123404,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-01T23:05:31.672Z",
+    "tvlUsd": 436433239,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-02T22:02:54.985Z",
+    "tvlUsd": 416508253,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-03T23:03:24.538Z",
+    "tvlUsd": 416204721,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-04T23:02:14.486Z",
+    "tvlUsd": 416973255,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-05T23:03:17.720Z",
+    "tvlUsd": 416264131,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-06T23:19:03.281Z",
+    "tvlUsd": 433930484,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-07T23:02:48.074Z",
+    "tvlUsd": 428091290,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-08T23:04:29.992Z",
+    "tvlUsd": 444177700,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-09T23:01:45.920Z",
+    "tvlUsd": 446300441,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-10T23:01:58.975Z",
+    "tvlUsd": 454590491,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-11T23:01:52.037Z",
+    "tvlUsd": 465149156,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-12T23:02:07.913Z",
+    "tvlUsd": 444004214,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-13T23:01:49.407Z",
+    "tvlUsd": 455794417,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-14T23:02:00.825Z",
+    "tvlUsd": 469256760,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-15T23:02:31.517Z",
+    "tvlUsd": 476791372,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-16T23:01:39.875Z",
+    "tvlUsd": 473710591,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-17T23:02:10.330Z",
+    "tvlUsd": 491336742,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-18T23:01:57.540Z",
+    "tvlUsd": 470506276,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-19T23:02:02.477Z",
+    "tvlUsd": 457058059,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-20T23:02:38.094Z",
+    "tvlUsd": 465369487,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-21T23:01:53.796Z",
+    "tvlUsd": 464438569,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-22T23:02:19.947Z",
+    "tvlUsd": 482134473,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-23T23:01:51.696Z",
+    "tvlUsd": 463425025,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-24T23:01:54.704Z",
+    "tvlUsd": 460384690,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-25T23:01:31.713Z",
+    "tvlUsd": 458693224,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-26T23:01:49.965Z",
+    "tvlUsd": 472168269,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-27T23:02:40.100Z",
+    "tvlUsd": 455453344,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-28T23:01:40.553Z",
+    "tvlUsd": 454649503,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-29T23:01:57.034Z",
+    "tvlUsd": 713599165,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-04-30T23:02:06.171Z",
+    "tvlUsd": 717336227,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-01T23:02:06.700Z",
+    "tvlUsd": 727616906,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-02T23:02:04.478Z",
+    "tvlUsd": 737238919,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-03T23:01:51.885Z",
+    "tvlUsd": 737802991,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-04T23:02:46.439Z",
+    "tvlUsd": 749895503,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-05T23:02:04.046Z",
+    "tvlUsd": 756116288,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-06T23:01:45.118Z",
+    "tvlUsd": 747169500,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-07T23:02:47.621Z",
+    "tvlUsd": 725953696,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-08T23:01:59.067Z",
+    "tvlUsd": 730488374,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-09T23:01:58.823Z",
+    "tvlUsd": 739871199,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-10T23:03:17.996Z",
+    "tvlUsd": 751890138,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-11T23:02:24.272Z",
+    "tvlUsd": 741112048,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-12T23:03:05.448Z",
+    "tvlUsd": 729065122,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-13T23:02:33.309Z",
+    "tvlUsd": 718074888,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-14T23:03:28.994Z",
+    "tvlUsd": 734488011,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-15T23:02:13.292Z",
+    "tvlUsd": 710543263,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-16T23:02:12.650Z",
+    "tvlUsd": 697460032,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-17T23:02:18.893Z",
+    "tvlUsd": 699328355,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-18T23:03:08.048Z",
+    "tvlUsd": 681201855,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-19T23:03:16.386Z",
+    "tvlUsd": 672631153,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-20T23:03:13.179Z",
+    "tvlUsd": 680513517,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-21T23:05:49.743Z",
+    "tvlUsd": 682024101,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-22T23:03:48.484Z",
+    "tvlUsd": 663455558,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-23T23:02:45.770Z",
+    "tvlUsd": 677430186,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-24T23:03:31.334Z",
+    "tvlUsd": 671089325,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-25T23:03:38.047Z",
+    "tvlUsd": 673775786,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-26T23:02:56.721Z",
+    "tvlUsd": 661937547,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-27T15:03:12.586Z",
+    "tvlUsd": 660707085,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-28T23:02:20.133Z",
+    "tvlUsd": 643138067,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-29T23:02:06.813Z",
+    "tvlUsd": 645178473,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-30T23:02:05.042Z",
+    "tvlUsd": 648569862,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-05-31T23:02:11.694Z",
+    "tvlUsd": 644649282,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-01T23:02:02.129Z",
+    "tvlUsd": 639763921,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-02T23:02:03.101Z",
+    "tvlUsd": 504978369,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-03T23:02:37.879Z",
+    "tvlUsd": 492392745,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-04T23:02:30.054Z",
+    "tvlUsd": 475275716,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-05T23:02:00.968Z",
+    "tvlUsd": 410920504,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-06T21:01:44.109Z",
+    "tvlUsd": 404287337,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-07T23:01:41.926Z",
+    "tvlUsd": 420506221,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-08T23:01:58.727Z",
+    "tvlUsd": 437409503,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-09T23:02:44.450Z",
+    "tvlUsd": 423875475,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-10T23:02:26.988Z",
+    "tvlUsd": 417421005,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-11T23:01:55.178Z",
+    "tvlUsd": 432878666,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-12T23:01:59.283Z",
+    "tvlUsd": 429115586,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-13T23:02:08.717Z",
+    "tvlUsd": 435603929,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-14T23:02:11.276Z",
+    "tvlUsd": 444347274,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-15T23:02:06.155Z",
+    "tvlUsd": 462449446,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-16T23:01:51.583Z",
+    "tvlUsd": 462781064,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-17T23:01:58.121Z",
+    "tvlUsd": 449572478,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-18T23:01:56.963Z",
+    "tvlUsd": 412530557,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-19T23:02:00.988Z",
+    "tvlUsd": 412947643,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-20T23:02:17.634Z",
+    "tvlUsd": 420739034,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-21T23:01:51.120Z",
+    "tvlUsd": 417053177,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-22T23:01:53.997Z",
+    "tvlUsd": 417921323,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-23T23:01:56.643Z",
+    "tvlUsd": 403593044,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-24T23:03:15.390Z",
+    "tvlUsd": 391806328,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-25T23:03:48.622Z",
+    "tvlUsd": 381499740,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-26T23:03:52.348Z",
+    "tvlUsd": 369212454,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-27T23:03:25.184Z",
+    "tvlUsd": 368772591,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-28T23:03:12.267Z",
+    "tvlUsd": 366097155,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-29T23:03:30.242Z",
+    "tvlUsd": 380293022,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-06-30T23:03:34.474Z",
+    "tvlUsd": 369470891,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-01T23:01:39.186Z",
+    "tvlUsd": 381283536,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-02T23:02:12.016Z",
+    "tvlUsd": 400187476,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-03T23:02:15.955Z",
+    "tvlUsd": 425754881,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-04T23:01:47.114Z",
+    "tvlUsd": 433759679,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-05T23:01:51.423Z",
+    "tvlUsd": 431122880,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-06T23:01:41.450Z",
+    "tvlUsd": 438040013,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-07T23:01:59.473Z",
+    "tvlUsd": 428492361,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-08T23:02:03.278Z",
+    "tvlUsd": 421591419,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-09T23:01:54.496Z",
+    "tvlUsd": 421792871,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-10T23:01:51.273Z",
+    "tvlUsd": 433623165,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-11T23:02:11.450Z",
+    "tvlUsd": 437849796,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-12T23:01:49.583Z",
+    "tvlUsd": 436162213,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-13T23:02:01.004Z",
+    "tvlUsd": 424956479,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-14T23:02:17.402Z",
+    "tvlUsd": 459628279,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-15T23:01:42.140Z",
+    "tvlUsd": 464692898,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-16T23:02:15.735Z",
+    "tvlUsd": 452712217,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-17T23:02:36.302Z",
+    "tvlUsd": 449926898,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-18T23:01:47.021Z",
+    "tvlUsd": 454250864,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-19T23:02:19.454Z",
+    "tvlUsd": 455524996,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-20T23:01:51.533Z",
+    "tvlUsd": 464462736,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-21T23:02:00.813Z",
+    "tvlUsd": 468950996,
+    "apy": 0,
+    "apyBase": null,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-22T23:01:47.439Z",
+    "tvlUsd": 472350760,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-23T23:01:50.821Z",
+    "tvlUsd": 447170688,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-24T23:01:51.828Z",
+    "tvlUsd": 441282807,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-25T23:01:42.503Z",
+    "tvlUsd": 445133643,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-26T23:01:50.616Z",
+    "tvlUsd": 457640769,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-27T23:01:50.700Z",
+    "tvlUsd": 461290578,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-28T23:02:47.003Z",
+    "tvlUsd": 458262076,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-29T23:01:41.924Z",
+    "tvlUsd": 454285950,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-30T23:01:31.736Z",
+    "tvlUsd": 459281400,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-07-31T23:02:08.563Z",
+    "tvlUsd": 444232604,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-08-01T23:01:48.546Z",
+    "tvlUsd": 363521840,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-08-02T23:05:08.159Z",
+    "tvlUsd": 370366557,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-08-03T23:01:49.518Z",
+    "tvlUsd": 349364192,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-08-04T23:01:36.290Z",
+    "tvlUsd": 337834235,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-08-05T23:01:43.044Z",
+    "tvlUsd": 343740611,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  },
+  {
+    "timestamp": "2026-08-06T08:01:43.589Z",
+    "tvlUsd": 343676629,
+    "apy": 0,
+    "apyBase": 0,
+    "apyReward": null,
+    "il7d": null,
+    "apyBase7d": null,
+    "pricePerShare": null
+  }
+]

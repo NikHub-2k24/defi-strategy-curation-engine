@@ -265,11 +265,12 @@ st.markdown("""
 # Tabs
 # ─────────────────────────────────────────────────────────────────────
 
-tab1, tab2, tab3, tab4 = st.tabs([
+tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "📊 Portfolio Overview",
     "🔬 Strategy Evaluator",
     "📈 Market Data",
     "🚨 Risk Monitor",
+    "📈 Historical Validation",
 ])
 
 
@@ -862,40 +863,7 @@ with tab4:
             </div>
             """, unsafe_allow_html=True)
 
-    # ── Incident Log ─────────────────────────────────────────────────
-    st.markdown('<div class="section-header">📋 Incident Log</div>', unsafe_allow_html=True)
 
-    mock_incidents_path = PROJECT_ROOT / "data" / "mock_incidents.json"
-    try:
-        with open(mock_incidents_path, "r", encoding="utf-8") as f:
-            incidents_data = json.load(f)
-        incidents = incidents_data.get("incidents", [])
-    except Exception:
-        incidents = []
-
-    for inc in incidents:
-        sev_colors = {"P1": COLORS["RED"], "P2": COLORS["AMBER"], "P3": "#6366f1"}
-        sev_c = sev_colors.get(inc.get("severity", "P3"), "#6366f1")
-
-        st.markdown(f"""
-        <div class="incident-card">
-            <div style="display: flex; justify-content: space-between; align-items: center;">
-                <div style="font-weight: 700; color: #e2e8f0; font-size: 0.95rem;">
-                    {inc.get('title', 'Unknown Incident')}
-                </div>
-                <span class="tier-badge" style="background: rgba(99,102,241,0.15); color: {sev_c};">
-                    {inc.get('severity', '—')}
-                </span>
-            </div>
-            <div style="color: #94a3b8; font-size: 0.8rem; margin-top: 6px;">
-                {inc.get('date', '—')} &nbsp;·&nbsp; {inc.get('id', '')} &nbsp;·&nbsp;
-                Resolved: {inc.get('resolved_date', 'Pending')}
-            </div>
-            <div style="color: #cbd5e1; font-size: 0.85rem; margin-top: 8px;">
-                {inc.get('description', '')}
-            </div>
-        </div>
-        """, unsafe_allow_html=True)
 
     # ── Incident Response Runbook ────────────────────────────────────
     st.markdown('<div class="section-header">📖 Incident Response Runbook</div>',
@@ -941,19 +909,6 @@ with tab4:
             </div>
             """, unsafe_allow_html=True)
 
-    # ── Incident Simulation ──────────────────────────────────────────
-    st.markdown('<div class="section-header">🎮 Incident Simulation</div>',
-                unsafe_allow_html=True)
-
-    sim_type = st.selectbox(
-        "Select incident type to simulate",
-        list(runbook.keys()),
-        format_func=lambda x: x.replace("_", " ").title(),
-    )
-
-    if st.button("▶️ Run Simulation", type="primary"):
-        simulation = simulate_incident(sim_type)
-        st.code(simulation, language="text")
 
 
 # ─────────────────────────────────────────────────────────────────────
