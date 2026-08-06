@@ -1,6 +1,6 @@
 # DeFi Strategy Backtest Report
 
-**Generated**: 2026-08-06 18:58 UTC
+**Generated**: 2026-08-06 19:22 UTC
 **Backtest Period**: 2025-02-07 to 2026-08-06
 **Trading Days**: 545
 
@@ -48,21 +48,21 @@ exit, a 7-day cooldown prevents re-entry into that protocol.
 
 ## 2. Executive Summary
 
-**The DSCE system underperformed both alternatives**, returning -0.77% vs +2.05% (naive yield-chasing) and +4.01% (ETH staking). This is a finding worth examining — it suggests the risk triggers may have been too sensitive, causing exits that cost more in missed yield than they saved in avoided losses. Even on a risk-adjusted basis, naive yield-chasing (Sharpe -2.25) edged out DSCE (-11.17).
+**The DSCE system underperformed both alternatives**, returning -0.37% vs +2.05% (naive yield-chasing) and +4.01% (ETH staking). This is a finding worth examining — it suggests the risk triggers may have been too sensitive, causing exits that cost more in missed yield than they saved in avoided losses. Even on a risk-adjusted basis, naive yield-chasing (Sharpe -2.25) edged out DSCE (-11.09).
 
 ## 3. Performance Comparison
 
 | Metric | DSCE System | Naive Yield-Chaser | ETH Staking |
 | --- | --- | --- | --- |
-| Total Return | -0.77% | +2.05% | +4.01% |
-| CAGR | -0.52% | 1.37% | 2.67% |
-| Sharpe Ratio | -11.167 | -2.253 | -0.222 |
-| Max Drawdown | -0.90% | -0.68% | 0.00% |
-| Max DD Date | 2026-06-29 | 2026-05-25 | 2025-02-07 |
-| Annual Volatility | 0.28% | 0.56% | 0.02% |
-| Final NAV | $99.23M | $102.06M | $104.01M |
-| Gas Costs | $1,835 | $120 | $0 |
-| Slippage Costs | $2,573,135 | $2,437,969 | $0 |
+| Total Return | -0.37% | +2.05% | +4.01% |
+| CAGR | -0.25% | 1.37% | 2.67% |
+| Sharpe Ratio | -11.090 | -2.253 | -0.222 |
+| Max Drawdown | -0.80% | -0.68% | 0.00% |
+| Max DD Date | 2025-05-19 | 2026-05-25 | 2025-02-07 |
+| Annual Volatility | 0.26% | 0.56% | 0.02% |
+| Final NAV | $99.64M | $102.06M | $104.01M |
+| Gas Costs | $1,785 | $120 | $0 |
+| Slippage Costs | $2,190,148 | $2,437,969 | $0 |
 | Rebalances | 78 | 12 | 0 |
 
 ### Holdout Window Performance (Final 6 Months)
@@ -71,16 +71,16 @@ exit, a 7-day cooldown prevents re-entry into that protocol.
 
 | Metric | DSCE System | Naive Yield-Chaser | ETH Staking |
 | --- | --- | --- | --- |
-| Total Return | -0.39% | -0.20% | +1.18% |
-| CAGR | -0.79% | -0.40% | 2.43% |
-| Sharpe Ratio | -10.817 | -4.072 | -19.515 |
-| Max Drawdown | -0.48% | -0.68% | 0.00% |
-| Max DD Date | 2026-06-29 | 2026-05-25 | 2026-02-08 |
-| Annual Volatility | 0.32% | 0.74% | 0.01% |
-| Final NAV | $99.23M | $102.06M | $104.01M |
-| Gas Costs | $0 | $0 | $0 |
-| Slippage Costs | $0 | $0 | $0 |
-| Rebalances | 0 | 0 | 0 |
+| Total Return | -0.01% | -0.19% | +1.19% |
+| CAGR | -0.03% | -0.39% | 2.43% |
+| Sharpe Ratio | -9.304 | -3.770 | -0.884 |
+| Max Drawdown | -0.37% | -0.68% | 0.00% |
+| Max DD Date | 2026-05-04 | 2026-05-25 | 2026-02-07 |
+| Annual Volatility | 0.26% | 0.74% | 0.01% |
+| Final NAV | $99.99M | $99.81M | $101.20M |
+| Gas Costs | $595 | $70 | $0 |
+| Slippage Costs | $632,648 | $1,395,287 | $0 |
+| Rebalances | 26 | 7 | 0 |
 
 ### Equity Curves
 
@@ -88,15 +88,15 @@ exit, a 7-day cooldown prevents re-entry into that protocol.
 
 ## 4. Trigger Analysis (DSCE System)
 
-**Total trigger fires**: 50
+**Total trigger fires**: 41
 
 | Trigger Type | Fires | True Positives | False Alarms |
 | --- | --- | --- | --- |
 | apy_anomaly | 27 | 11 | 16 |
-| tvl_drop | 23 | 12 | 11 |
-| **Total** | **50** | **23** | **27** |
+| tvl_drop | 14 | 9 | 5 |
+| **Total** | **41** | **20** | **21** |
 
-**Precision**: 46.0% (fraction of trigger fires that were true positives)
+**Precision**: 48.8% (fraction of trigger fires that were true positives)
 
 ### Trigger Fire Log
 
@@ -123,35 +123,26 @@ exit, a 7-day cooldown prevents re-entry into that protocol.
 | 2025-05-10 | curve-dex | apy_anomaly | WARNING | 100.6 | ❌ false_alarm | — |
 | 2025-05-17 | curve-dex | apy_anomaly | WARNING | 50.1 | ❌ false_alarm | — |
 | 2025-07-22 | curve-dex | apy_anomaly | WARNING | 91.4 | ✅ true_positive | — |
-| 2025-09-26 | morpho | tvl_drop | WARNING | -15.5 | ❌ false_alarm | — |
-| 2025-09-26 | lido | tvl_drop | WARNING | -15.7 | ❌ false_alarm | — |
+| 2025-08-14 | morpho | tvl_drop | WARNING | -15.3 | ❌ false_alarm | — |
+| 2025-08-23 | curve-dex | tvl_drop | WARNING | -16.4 | ✅ true_positive | — |
+| 2025-08-27 | curve-dex | tvl_drop | WARNING | -18.0 | ✅ true_positive | — |
 | 2025-10-11 | lido | apy_anomaly | WARNING | 173.1 | ❌ false_alarm | — |
 | 2025-10-18 | lido | apy_anomaly | WARNING | 63.2 | ❌ false_alarm | — |
-| 2025-11-05 | aave | tvl_drop | WARNING | -16.8 | ✅ true_positive | — |
-| 2025-11-05 | lido | tvl_drop | WARNING | -17.4 | ✅ true_positive | — |
-| 2025-11-14 | pendle | tvl_drop | WARNING | -16.7 | ✅ true_positive | — |
-| 2025-11-22 | morpho | tvl_drop | WARNING | -17.4 | ❌ false_alarm | — |
-| 2026-02-02 | lido | tvl_drop | WARNING | -17.0 | ✅ true_positive | — |
-| 2026-02-03 | lido | tvl_drop | WARNING | -18.4 | ✅ true_positive | — |
-| 2026-02-04 | aave | tvl_drop | WARNING | -15.1 | ✅ true_positive | — |
+| 2025-11-12 | pendle | tvl_drop | WARNING | -15.9 | ✅ true_positive | — |
 | 2026-02-06 | curve-dex | apy_anomaly | WARNING | 211.9 | ❌ false_alarm | — |
-| 2026-02-06 | morpho | tvl_drop | WARNING | -16.9 | ❌ false_alarm | — |
 | 2026-02-13 | lido | apy_anomaly | WARNING | 40.0 | ✅ true_positive | — |
 | 2026-02-13 | curve-dex | apy_anomaly | WARNING | 59.6 | ❌ false_alarm | — |
 | 2026-03-13 | lido | apy_anomaly | WARNING | 95.2 | ❌ false_alarm | — |
 | 2026-03-13 | curve-dex | apy_anomaly | WARNING | 135.6 | ❌ false_alarm | — |
 | 2026-03-20 | lido | apy_anomaly | WARNING | 46.4 | ✅ true_positive | — |
 | 2026-03-20 | curve-dex | apy_anomaly | WARNING | 58.2 | ❌ false_alarm | — |
-| 2026-04-19 | aave | tvl_drop | WARNING | -15.0 | ✅ true_positive | — |
+| 2026-04-04 | pendle | tvl_drop | WARNING | -15.0 | ✅ true_positive | — |
+| 2026-04-19 | aave | tvl_drop | WARNING | -17.5 | ✅ true_positive | — |
 | 2026-04-19 | curve-dex | apy_anomaly | WARNING | 378.2 | ✅ true_positive | — |
-| 2026-04-21 | pendle | tvl_drop | WARNING | -15.1 | ✅ true_positive | — |
 | 2026-04-21 | curve-dex | apy_anomaly | WARNING | 330.7 | ✅ true_positive | — |
+| 2026-04-21 | aave | tvl_drop | CRITICAL | -35.8 | ✅ true_positive | — |
 | 2026-04-28 | curve-dex | apy_anomaly | WARNING | 64.9 | ❌ false_alarm | — |
-| 2026-06-03 | pendle | tvl_drop | WARNING | -15.8 | ✅ true_positive | — |
-| 2026-06-06 | lido | tvl_drop | WARNING | -20.4 | ❌ false_alarm | — |
-| 2026-06-09 | lido | tvl_drop | WARNING | -16.3 | ❌ false_alarm | — |
-| 2026-06-19 | pendle | tvl_drop | WARNING | -20.1 | ❌ false_alarm | — |
-| 2026-06-28 | curve-dex | tvl_drop | WARNING | -15.2 | ❌ false_alarm | — |
+| 2026-06-19 | pendle | tvl_drop | WARNING | -21.9 | ❌ false_alarm | — |
 
 ### Trigger Annotations
 
@@ -161,7 +152,7 @@ exit, a 7-day cooldown prevents re-entry into that protocol.
 
 ### Assessment: Moderately Calibrated ⚠️
 
-Trigger precision of 46% shows a mixed picture. The triggers catch 
+Trigger precision of 49% shows a mixed picture. The triggers catch 
 genuine events but also generate significant false alarms that cost yield.
 
 ### Per-Trigger Calibration
@@ -171,7 +162,7 @@ genuine events but also generate significant false alarms that cost yield.
   inherently volatile. Consider raising to 30-40% or using a 14-day lookback 
   to smooth out normal yield fluctuations.
 
-**tvl_drop** (23 fires, 52% precision):
+**tvl_drop** (14 fires, 64% precision):
 - Consider raising to 20% to reduce false alarms while retaining signal.
 
 ### V1 vs V2 Calibration Assessment

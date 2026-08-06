@@ -97,7 +97,7 @@ def prepare_engine_dataset(fetched_data) -> EngineDataset:
             il_data = il_data.reindex(date_range).ffill().fillna(0)
 
     # Remove timezone info from index if present (engine uses naive timestamps)
-    for df_ref in [tvl_data, apy_data]:
+    for df_ref in [tvl_data, apy_data, fetched_data.eth_price]:
         if hasattr(df_ref.index, 'tz') and df_ref.index.tz is not None:
             df_ref.index = df_ref.index.tz_localize(None)
     if il_data is not None and hasattr(il_data.index, 'tz') and il_data.index.tz is not None:
@@ -144,6 +144,26 @@ def main():
     print(f">> Done ({time.time() - start_time:.1f}s)")
     print()
 
+    # ── Step 2.5: Run Holdout Simulation ────────────────────────────
+    print(">> Step 2.5/5: Running holdout simulation...")
+    # Create holdout dataset (last 180 days)
+    holdout_start = engine_dataset.tvl_data.index[-1] - pd.Timedelta(days=180)
+    holdout_tvl = engine_dataset.tvl_data.loc[holdout_start:].copy()
+    holdout_apy = engine_dataset.apy_data.loc[holdout_start:].copy()
+    holdout_eth_price = engine_dataset.eth_price.loc[holdout_start:].copy()
+    holdout_il = engine_dataset.il_data.loc[holdout_start:].copy() if engine_dataset.il_data is not None else None
+    
+    holdout_dataset = EngineDataset(
+        tvl_data=holdout_tvl,
+        apy_data=holdout_apy,
+        eth_price=holdout_eth_price,
+        il_data=holdout_il,
+    )
+    result_holdout = run_backtest(holdout_dataset)
+    print(f"    Simulated holdout period: {(result_holdout.end_date - result_holdout.start_date).days} days")
+    print(f">> Done ({time.time() - start_time:.1f}s)")
+    print()
+
     # ── Step 3: Compute Metrics ─────────────────────────────────────
     print(">> Step 3/5: Computing metrics...")
 
@@ -187,31 +207,27 @@ def main():
         rebalance_counts=result.strategy_rebalances,
     )
     
-    # Slice for Holdout Period (last 180 days)
-    holdout_curves = {}
-    holdout_returns = {}
-    for name, curve in result.equity_curves.items():
-        if len(curve) > 180:
-            holdout_curves[name] = curve.iloc[-180:]
-        else:
-            holdout_curves[name] = curve
-            
-    for name, rets in result.daily_returns.items():
-        if len(rets) > 180:
-            holdout_returns[name] = rets.iloc[-180:]
-        else:
-            holdout_returns[name] = rets
+    # Calculate holdout benchmark APY properly
+    eth_staking_curve_holdout = result_holdout.equity_curves.get(
+        "ETH Staking Benchmark",
+        result_holdout.equity_curves.get("ETH Staking", pd.Series(dtype=float))
+    )
+    if len(eth_staking_curve_holdout) > 1:
+        avg_eth_return_holdout = eth_staking_curve_holdout.pct_change().mean()
+        avg_eth_apy_holdout = avg_eth_return_holdout * 365
+    else:
+        avg_eth_apy_holdout = 0.035
             
     metrics_holdout = compute_all_metrics(
-        equity_curves=holdout_curves,
-        daily_returns=holdout_returns,
-        trigger_log=[],  # Simplified for holdout just to get returns
+        equity_curves=result_holdout.equity_curves,
+        daily_returns=result_holdout.daily_returns,
+        trigger_log=[],  # Simplified for holdout just to get returns and costs
         pool_apy=fetched_data.pool_apy,
         pool_tvl=fetched_data.protocol_tvl,
-        eth_staking_apy=avg_eth_apy,
-        gas_costs={},  # Not recalculating exact gas for holdout
-        slippage_costs={},
-        rebalance_counts={},
+        eth_staking_apy=avg_eth_apy_holdout,
+        gas_costs=result_holdout.strategy_gas,
+        slippage_costs=result_holdout.strategy_slippage,
+        rebalance_counts=result_holdout.strategy_rebalances,
     )
 
     print(f"    Strategies analysed: {list(metrics.strategy_metrics.keys())}")
