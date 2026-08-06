@@ -928,24 +928,29 @@ with tab5:
         with open(report_file, "r") as f:
             report_md = f.read()
             
-        # We need to replace the local image links in the markdown with the actual Streamlit st.image calls, 
-        # or just render the markdown and manually display the images below.
+        # Split and interleave markdown and images to maintain correct placement
+        parts1 = report_md.split("![Equity Curve Comparison](equity_curves.png)")
         
-        # Remove the image tags from markdown to avoid broken image links
-        report_md_clean = report_md.replace("![Equity Curve Comparison](equity_curves.png)", "")
-        report_md_clean = report_md_clean.replace("![Trigger Annotations](trigger_annotations.png)", "")
-        
-        st.markdown(report_md_clean)
-        
-        st.subheader("Equity Curves")
-        if equity_img.exists():
-            with open(equity_img, "rb") as f:
-                st.image(f.read(), use_container_width=True)
+        if len(parts1) == 2:
+            st.markdown(parts1[0])
             
-        st.subheader("Trigger Annotations")
-        if trigger_img.exists():
-            with open(trigger_img, "rb") as f:
-                st.image(f.read(), use_container_width=True)
+            if equity_img.exists():
+                with open(equity_img, "rb") as f:
+                    st.image(f.read(), use_container_width=True)
+                    
+            parts2 = parts1[1].split("![Trigger Annotations](trigger_annotations.png)")
+            
+            if len(parts2) == 2:
+                st.markdown(parts2[0])
+                if trigger_img.exists():
+                    with open(trigger_img, "rb") as f:
+                        st.image(f.read(), use_container_width=True)
+                st.markdown(parts2[1])
+            else:
+                st.markdown(parts1[1])
+        else:
+            # Fallback if markdown doesn't match expected format
+            st.markdown(report_md)
             
     else:
         st.info("Backtest report not found. Run the backtest engine to generate historical results.")
