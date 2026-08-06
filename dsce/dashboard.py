@@ -270,7 +270,7 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "🔬 Strategy Evaluator",
     "📈 Market Data",
     "🚨 Risk Monitor",
-    "📈 Historical Validation",
+    "📜 Historical Validation",
 ])
 
 
@@ -910,6 +910,43 @@ with tab4:
             """, unsafe_allow_html=True)
 
 
+# ═════════════════════════════════════════════════════════════════════
+# TAB 5: Historical Validation
+# ═════════════════════════════════════════════════════════════════════
+
+with tab5:
+    st.header("Historical Backtest (v2 Logic)")
+    st.markdown("This tab displays the static results of the adversarial 18-month historical backtest, replaying the exact risk-scoring and trigger logic against real market data.")
+    
+    # Path to backtest output
+    backtest_output_dir = PROJECT_ROOT.parent / "backtest" / "output"
+    report_file = backtest_output_dir / "backtest_report.md"
+    equity_img = backtest_output_dir / "equity_curves.png"
+    trigger_img = backtest_output_dir / "trigger_annotations.png"
+    
+    if report_file.exists():
+        with open(report_file, "r") as f:
+            report_md = f.read()
+            
+        # We need to replace the local image links in the markdown with the actual Streamlit st.image calls, 
+        # or just render the markdown and manually display the images below.
+        
+        # Remove the image tags from markdown to avoid broken image links
+        report_md_clean = report_md.replace("![Equity Curve Comparison](equity_curves.png)", "")
+        report_md_clean = report_md_clean.replace("![Trigger Annotations](trigger_annotations.png)", "")
+        
+        st.markdown(report_md_clean)
+        
+        st.subheader("Equity Curves")
+        if equity_img.exists():
+            st.image(str(equity_img), use_column_width=True)
+            
+        st.subheader("Trigger Annotations")
+        if trigger_img.exists():
+            st.image(str(trigger_img), use_column_width=True)
+            
+    else:
+        st.info("Backtest report not found. Run the backtest engine to generate historical results.")
 
 # ─────────────────────────────────────────────────────────────────────
 # Footer
