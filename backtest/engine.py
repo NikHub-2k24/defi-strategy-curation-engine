@@ -49,19 +49,21 @@ def get_slippage(tvl: float) -> float:
         return 0.003
     return 0.01
 
-def safe_get(df: pd.DataFrame, date, col: str, default: float = 0.0) -> float:
-    """Safely get a value from a DataFrame, returning default if column missing or NaN."""
+def safe_get(df: pd.DataFrame, date, col: str) -> float:
+    """Safely get a value from a DataFrame, raising ValueError if column missing or NaN."""
     if col not in df.columns:
-        return default
+        raise ValueError(f"Column '{col}' not found in data.")
     try:
         val = df.at[date, col]
         if pd.isna(val):
-            return default
+            raise ValueError(f"NaN value encountered for '{col}' at date {date}.")
         return float(val)
+    except KeyError:
+        raise ValueError(f"Date '{date}' not found in data index.")
     except (KeyError, IndexError):
         return default
 
-def run_backtest(dataset: BacktestDataset) -> BacktestResult:
+def run_backtest(dataset: BacktestDataset, sim_start=None, sim_end=None) -> BacktestResult:
     # Load config
     config_path = os.path.join(os.path.dirname(__file__), "..", "dsce", "data", "portfolio_config.json")
     with open(config_path, "r") as f:
@@ -80,6 +82,11 @@ def run_backtest(dataset: BacktestDataset) -> BacktestResult:
     initial_capital = 100_000_000.0
     
     dates = dataset.apy_data.index.sort_values()
+    if sim_start:
+        dates = dates[dates >= sim_start]
+    if sim_end:
+        dates = dates[dates <= sim_end]
+        
     start_date = dates[0]
     end_date = dates[-1]
     

@@ -115,13 +115,13 @@ class HistoricalRiskEngine:
         if protocol_slug in tvl_data.columns and date_7d_ago in tvl_data.index:
             tvl_7d_ago = tvl_data.at[date_7d_ago, protocol_slug]
 
-        eth_price_today = 1.0
-        if date_val in eth_price_data.index:
-            eth_price_today = eth_price_data.at[date_val, 'price_usd']
-            
-        eth_price_7d_ago = 1.0
-        if date_7d_ago in eth_price_data.index:
-            eth_price_7d_ago = eth_price_data.at[date_7d_ago, 'price_usd']
+        if date_val not in eth_price_data.index:
+            raise ValueError(f"ETH price missing for date {date_val}")
+        eth_price_today = eth_price_data.at[date_val, 'price_usd']
+        
+        if date_7d_ago not in eth_price_data.index:
+            raise ValueError(f"ETH price missing for 7d ago date {date_7d_ago}")
+        eth_price_7d_ago = eth_price_data.at[date_7d_ago, 'price_usd']
 
         if not pd.isna(tvl_today) and not pd.isna(tvl_7d_ago) and tvl_7d_ago > 0:
             native_tvl_today = tvl_today / eth_price_today

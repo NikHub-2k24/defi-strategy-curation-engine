@@ -79,16 +79,22 @@ def prepare_engine_dataset(fetched_data) -> EngineDataset:
     # Align all DataFrames to a common date range
     if not tvl_data.empty and not apy_data.empty:
         common_start = max(tvl_data.index.min(), apy_data.index.min())
-        common_end = min(tvl_data.index.max(), apy_data.index.max())
-
-        # Trim to last 18 months (545 days) to keep the backtest focused
-        target_start = common_end - pd.Timedelta(days=545)
-        if target_start > common_start:
-            common_start = target_start
-            print(f"  Trimmed to last 18 months: {common_start.date()} to {common_end.date()}")
+        
+        # HARDCODE SNAPSHOT DATE: Ensure exact deterministic reproducibility
+        # by pinning the end date to August 6, 2026, regardless of when the script is run.
+        target_end = pd.Timestamp("2026-08-06", tz="UTC")
+        
+        # Trim to last 18 months (545 days) from the snapshot end date
+        target_start = target_end - pd.Timedelta(days=545)
+        
+        # Ensure we don't start before data actually exists
+        if target_start < common_start:
+            target_start = common_start
+            
+        print(f"  Pinned 18-month simulation window: {target_start.date()} to {target_end.date()}")
 
         # Use the common date range
-        date_range = pd.date_range(start=common_start, end=common_end, freq="D")
+        date_range = pd.date_range(start=target_start, end=target_end, freq="D")
 
         tvl_data = tvl_data.reindex(date_range).ffill().bfill()
         apy_data = apy_data.reindex(date_range).ffill().bfill()
@@ -148,18 +154,8 @@ def main():
     print(">> Step 2.5/5: Running holdout simulation...")
     # Create holdout dataset (last 180 days)
     holdout_start = engine_dataset.tvl_data.index[-1] - pd.Timedelta(days=180)
-    holdout_tvl = engine_dataset.tvl_data.loc[holdout_start:].copy()
-    holdout_apy = engine_dataset.apy_data.loc[holdout_start:].copy()
-    holdout_eth_price = engine_dataset.eth_price.loc[holdout_start:].copy()
-    holdout_il = engine_dataset.il_data.loc[holdout_start:].copy() if engine_dataset.il_data is not None else None
     
-    holdout_dataset = EngineDataset(
-        tvl_data=holdout_tvl,
-        apy_data=holdout_apy,
-        eth_price=holdout_eth_price,
-        il_data=holdout_il,
-    )
-    result_holdout = run_backtest(holdout_dataset)
+    result_holdout = run_backtest(engine_dataset, sim_start=holdout_start)
     print(f"    Simulated holdout period: {(result_holdout.end_date - result_holdout.start_date).days} days")
     print(f">> Done ({time.time() - start_time:.1f}s)")
     print()

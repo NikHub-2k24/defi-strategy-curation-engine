@@ -63,6 +63,12 @@ def generate_report(
     lines.append("from DeFiLlama and CoinGecko APIs. **No rules were invented for this backtest** — ")
     lines.append("every threshold and formula is sourced from the existing codebase.")
     lines.append("")
+    lines.append("### Holdout Validation")
+    lines.append("")
+    lines.append("The 6-month holdout simulation starts with a fresh $100M allocation on the holdout ")
+    lines.append("start date, strictly independent of the full-period run's accumulated position history. ")
+    lines.append("This out-of-sample design evaluates the strategy's logic rather than its path-dependent luck.")
+    lines.append("")
     lines.append("### Rebalance Cadence")
     lines.append("")
     lines.append("Portfolio composition is reviewed **weekly** (every Monday). Risk triggers ")
@@ -413,7 +419,17 @@ def _generate_calibration_assessment(metrics: BacktestMetrics) -> str:
     # Specific recommendations
     lines.append("### V1 vs V2 Calibration Assessment")
     lines.append("")
-    lines.append("Compared to the v1 baseline, precision decreased slightly (51.4% → 46%) but total false alarms and their cost dropped substantially (69 → 27 fires, recovering returns from -3.73% to -0.77%). This represents a real trade-off, where the system tolerates a slightly lower hit-rate in exchange for drastically reducing the sheer volume of costly false positives.")
+    
+    # Calculate precision dynamically
+    precision_pct = summary.precision * 100 if summary else 0.0
+    total_fires = summary.total_fires if summary else 0
+    false_alarms = summary.false_alarms if summary else 0
+    
+    # Safely get return dynamically
+    sm = metrics.strategy_metrics
+    dsce_r = sm.get("DSCE System").total_return_pct if sm.get("DSCE System") else 0.0
+    
+    lines.append(f"Compared to the v1 baseline, precision is now {precision_pct:.1f}% with {total_fires} total fires ({false_alarms} false alarms), generating a return of {dsce_r:.2f}%. This represents a real trade-off, where the system tolerates a slightly lower hit-rate in exchange for drastically reducing the sheer volume of costly false positives.")
     lines.append("")
 
     return "\n".join(lines)

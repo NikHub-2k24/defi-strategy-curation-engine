@@ -1,6 +1,6 @@
 # DeFi Strategy Backtest Report
 
-**Generated**: 2026-08-06 19:22 UTC
+**Generated**: 2026-08-07 18:32 UTC
 **Backtest Period**: 2025-02-07 to 2026-08-06
 **Trading Days**: 545
 
@@ -10,6 +10,12 @@ This backtest replays the exact risk-scoring and trigger logic from the
 DeFi Strategy Curation Engine (DSCE) against real historical data 
 from DeFiLlama and CoinGecko APIs. **No rules were invented for this backtest** — 
 every threshold and formula is sourced from the existing codebase.
+
+### Holdout Validation
+
+The 6-month holdout simulation starts with a fresh $100M allocation on the holdout 
+start date, strictly independent of the full-period run's accumulated position history. 
+This out-of-sample design evaluates the strategy's logic rather than its path-dependent luck.
 
 ### Rebalance Cadence
 
@@ -71,15 +77,15 @@ exit, a 7-day cooldown prevents re-entry into that protocol.
 
 | Metric | DSCE System | Naive Yield-Chaser | ETH Staking |
 | --- | --- | --- | --- |
-| Total Return | -0.01% | -0.19% | +1.19% |
-| CAGR | -0.03% | -0.39% | 2.43% |
-| Sharpe Ratio | -9.304 | -3.770 | -0.884 |
-| Max Drawdown | -0.37% | -0.68% | 0.00% |
+| Total Return | -0.13% | -0.19% | +1.19% |
+| CAGR | -0.27% | -0.39% | 2.43% |
+| Sharpe Ratio | -9.414 | -3.770 | -0.884 |
+| Max Drawdown | -0.40% | -0.68% | 0.00% |
 | Max DD Date | 2026-05-04 | 2026-05-25 | 2026-02-07 |
-| Annual Volatility | 0.26% | 0.74% | 0.01% |
-| Final NAV | $99.99M | $99.81M | $101.20M |
-| Gas Costs | $595 | $70 | $0 |
-| Slippage Costs | $632,648 | $1,395,287 | $0 |
+| Annual Volatility | 0.28% | 0.74% | 0.01% |
+| Final NAV | $99.87M | $99.81M | $101.20M |
+| Gas Costs | $610 | $70 | $0 |
+| Slippage Costs | $742,887 | $1,395,287 | $0 |
 | Rebalances | 26 | 7 | 0 |
 
 ### Equity Curves
@@ -167,7 +173,7 @@ genuine events but also generate significant false alarms that cost yield.
 
 ### V1 vs V2 Calibration Assessment
 
-Compared to the v1 baseline, precision decreased slightly (51.4% → 46%) but total false alarms and their cost dropped substantially (69 → 27 fires, recovering returns from -3.73% to -0.77%). This represents a real trade-off, where the system tolerates a slightly lower hit-rate in exchange for drastically reducing the sheer volume of costly false positives.
+Compared to the v1 baseline, precision is now 48.8% with 41 total fires (21 false alarms), generating a return of -0.37%. This represents a real trade-off, where the system tolerates a slightly lower hit-rate in exchange for drastically reducing the sheer volume of costly false positives.
 
 
 ## 6. Honest Conclusion
