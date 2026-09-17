@@ -2,7 +2,7 @@ name: Real Browser Keep-Alive
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */5 * * *" # Runs every 5 hours
   workflow_dispatch: # Allows you to run it manually from the GitHub UI
 
 jobs:
