@@ -1,0 +1,45 @@
+name: Real Browser Keep-Alive
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows you to run it manually from the GitHub UI
+
+jobs:
+  keep-awake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install Playwright
+        run: |
+          pip install playwright
+          playwright install chromium
+          
+      - name: Simulate Real User Visit
+        run: |
+          python -c "
+          from playwright.sync_api import sync_playwright
+          import time
+
+          # ⚠️ REPLACE THE URL BELOW WITH YOUR ACTUAL STREAMLIT APP URL ⚠️
+          URL = 'https://defi-strategy-curation-engine-bynikhil.streamlit.app/'
+
+          with sync_playwright() as p:
+              print(f'Starting virtual browser...')
+              browser = p.chromium.launch(headless=True)
+              page = browser.new_page()
+              
+              print(f'Visiting {URL}...')
+              page.goto(URL, wait_until='networkidle')
+              
+              # Wait 15 seconds to ensure Streamlit's JavaScript loads 
+              # and the WebSocket connection is fully established.
+              time.sleep(15)
+              
+              print('Visit complete. Streamlit backend has registered the traffic.')
+              browser.close()
+          "
