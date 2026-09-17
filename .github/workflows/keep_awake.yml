@@ -36,9 +36,17 @@ jobs:
               print(f'Visiting {URL}...')
               page.goto(URL, wait_until='networkidle')
               
-              # Wait 15 seconds to ensure Streamlit's JavaScript loads 
-              # and the WebSocket connection is fully established.
-              time.sleep(15)
+              # Check if the app is currently sleeping
+              wake_btn = page.locator("button:has-text('Yes, get this app back up!')")
+              if wake_btn.count() > 0:
+                  print("App is sleeping! Clicking the wake-up button...")
+                  wake_btn.first.click()
+                  # Wait longer because booting up takes time
+                  time.sleep(45)
+              else:
+                  print("App is already awake.")
+                  # Wait a standard 15 seconds to ensure Streamlit registers the connection
+                  time.sleep(15)
               
               print('Visit complete. Streamlit backend has registered the traffic.')
               browser.close()
