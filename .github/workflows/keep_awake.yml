@@ -21,15 +21,14 @@ jobs:
           
       - name: Simulate Real User Visit
         run: |
-          python -c "
+          python << 'EOF'
           from playwright.sync_api import sync_playwright
           import time
 
-          # ⚠️ REPLACE THE URL BELOW WITH YOUR ACTUAL STREAMLIT APP URL ⚠️
           URL = 'https://defi-strategy-curation-engine-bynikhil.streamlit.app/'
 
           with sync_playwright() as p:
-              print(f'Starting virtual browser...')
+              print('Starting virtual browser...')
               browser = p.chromium.launch(headless=True)
               page = browser.new_page()
               
@@ -50,4 +49,4 @@ jobs:
               
               print('Visit complete. Streamlit backend has registered the traffic.')
               browser.close()
-          "
+          EOF
